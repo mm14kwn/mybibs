@@ -73,6 +73,7 @@
     "skolnik08c26"
     "officer76"
     "skolnik01"
+    "skolnik89"
     "marconi99"
     "marconi22"
     "watsonwatt46"
@@ -109,6 +110,8 @@
     "ridenour47c16"
     "ridenour47c17"
     "durden85"
-    "nicolaescu01"))
+    "nicolaescu01"
+    "balanis05"
+    "ieee09"))
  :bibtex)
 
