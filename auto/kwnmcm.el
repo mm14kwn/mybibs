@@ -112,6 +112,8 @@
     "durden85"
     "nicolaescu01"
     "balanis05"
-    "ieee09"))
+    "ieee09"
+    "phillips88"
+    "rees12"))
  :bibtex)
 
