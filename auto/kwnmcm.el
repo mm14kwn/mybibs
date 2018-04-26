@@ -114,6 +114,12 @@
     "balanis05"
     "ieee09"
     "phillips88"
-    "rees12"))
+    "rees12"
+    "wright66"
+    "plant90"
+    "barrick72"
+    "plant97"
+    "freeman98"
+    "crombie72"))
  :bibtex)
 
