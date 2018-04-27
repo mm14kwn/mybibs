@@ -43,6 +43,7 @@
     "SMP96"
     "pringle95"
     "campbell96"
+    "campbell11"
     "brown69"
     "ESA98"
     "skolnik08c1"
@@ -120,6 +121,19 @@
     "barrick72"
     "plant97"
     "freeman98"
-    "crombie72"))
+    "crombie72"
+    "crombie55"
+    "bragg13"
+    "ENVISAT_mission"
+    "ENVISAT_history"
+    "ENVISAT_objectives"
+    "ENVISAT_operations"
+    "ENVISAT_satellite"
+    "ENVISAT_ASAR"
+    "SENTINEL_overview"
+    "SENTINEL_objectives"
+    "SENTINEL_description"
+    "SENTINEL_instruments"
+    "SENTINEL_data"))
  :bibtex)
 
