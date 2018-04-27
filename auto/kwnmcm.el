@@ -124,16 +124,7 @@
     "crombie72"
     "crombie55"
     "bragg13"
-    "ENVISAT_mission"
-    "ENVISAT_history"
-    "ENVISAT_objectives"
-    "ENVISAT_operations"
-    "ENVISAT_satellite"
-    "ENVISAT_ASAR"
-    "SENTINEL_overview"
-    "SENTINEL_objectives"
-    "SENTINEL_description"
-    "SENTINEL_instruments"
-    "SENTINEL_data"))
+    "ENVISAT"
+    "SENTINEL"))
  :bibtex)
 
