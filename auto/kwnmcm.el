@@ -125,6 +125,10 @@
     "crombie55"
     "bragg13"
     "ENVISAT"
-    "SENTINEL"))
+    "SENTINEL"
+    "argenti13"
+    "lee94"
+    "gagnon97"
+    "lee09"))
  :bibtex)
 
