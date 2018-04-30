@@ -131,6 +131,8 @@
     "gagnon97"
     "lee09"
     "lee80"
-    "lee81"))
+    "lee81"
+    "bovik88"
+    "zaman93"))
  :bibtex)
 
