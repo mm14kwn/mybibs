@@ -137,6 +137,9 @@
     "caves94"
     "white86"
     "lee89"
-    "OSM2017"))
+    "OSM2017"
+    "oliphant06"
+    "GDAL18"
+    "rossum09"))
  :bibtex)
 
