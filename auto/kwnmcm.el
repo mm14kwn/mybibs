@@ -133,6 +133,10 @@
     "lee80"
     "lee81"
     "bovik88"
-    "zaman93"))
+    "zaman93"
+    "caves94"
+    "white86"
+    "lee89"
+    "OSM2017"))
  :bibtex)
 
