@@ -48,6 +48,8 @@
     "Giorgi2015"
     "Antic2006"
     "bird17"
-    "stewart88"))
+    "stewart88"
+    "born79"
+    "jordan80"))
  :bibtex)
 
