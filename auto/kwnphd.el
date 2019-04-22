@@ -50,6 +50,11 @@
     "bird17"
     "stewart88"
     "born79"
-    "jordan80"))
+    "jordan80"
+    "duda73"
+    "sobel68"
+    "danielsson90"
+    "canny87"
+    "fu80"))
  :bibtex)
 
