@@ -57,6 +57,11 @@
     "karnevi93"
     "SFCG17"
     "attema05"
-    "aardoom98"))
+    "aardoom98"
+    "duda73"
+    "sobel68"
+    "danielsson90"
+    "canny87"
+    "fu80"))
  :bibtex)
 
