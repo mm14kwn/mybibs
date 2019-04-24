@@ -50,6 +50,13 @@
     "bird17"
     "stewart88"
     "born79"
-    "jordan80"))
+    "jordan80"
+    "attema91"
+    "francis91"
+    "gardini95"
+    "karnevi93"
+    "SFCG17"
+    "attema05"
+    "aardoom98"))
  :bibtex)
 
