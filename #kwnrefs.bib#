@@ -1,0 +1,3269 @@
+@MISC{NOAA,
+TITLE="Harmonic Analysis",
+AUTHOR="{National Oceanic and Atmospheric Administration}",
+NOTE="Webpage, available at \url{http://tidesandcurrents.noaa.gov/harmonic.html} [accessed 17/1/15]",
+YEAR="2013"
+}
+
+@MISC{UKHO93,
+AUTHOR="{UK Hydrographic Office}",
+TITLE="{Admiralty Chart No. 109 (River Humber, River Ouse and Trent)}",
+HOWPUBLISHED="Admiralty Chart",
+YEAR=1993
+}
+
+@manual{WRFarw14,
+title="{Weather Research \& Forecasting - ARW Version 3 Modeling System User's Guide}",
+INSTITUTION="Mesoscale & Microscale Meteorology Division, National Centre for Atmospheric Research",
+year="2014",
+note="Available at \url{http://www2.mmm.ucar.edu/wrf/users/docs/user_guide_V3/ARWUsersGuideV3.pdf}[Accessed 6/11/14]"
+}
+
+@ARTICLE{acheson00,
+AUTHOR="D.J. Acheson",
+TITLE="{Instability of Vortex Leapfrogging}",
+JOURNAL="European Journal of Physics",
+VOLUME=21,
+PAGES="269-273",
+YEAR=2000
+}
+
+@BOOK{acheson90,
+TITLE="{Elementary Fluid Dynamics}",
+AUTHOR="D.J. Acheson",
+PUBLISHER="Oxford: Clarendon Press",
+YEAR=1990
+}
+
+@BOOK{adams03,
+AUTHOR="R.A. Adams and J. Fournier",
+TITLE="{Sobolev Spaces}",
+PUBLISHER="Oxford: Elsevier",
+YEAR=2003
+} 
+
+@ARTICLE{adams68,
+AUTHOR="V.T Buchwald and J.K. Adams",
+TITLE="{The Propagation of Continental Shelf Waves}",
+JOURNAL="Proceedings of the Royal Society A",
+VOLUME=305,
+NUMBER=1481,
+PAGES="235-250",
+YEAR=1968
+}
+
+@ARTICLE{adams69,
+AUTHOR="J.K. Adams and V.T. Buchwald",
+TITLE="{The Generation of Continental Shelf Waves}",
+JOURNAL="Journal of Fluid Mechanics",
+VOLUME=35,
+NUMBER=4,
+PAGES="815-826",
+YEAR=1969
+}
+
+@ARTICLE{aguirre14,
+AUTHOR="Catalina Aguirre and Ren{\'e} D. Garreaud and Jos\'{e} A. Rutllant",
+TITLE="{Surface Ocean Response to Synoptic-Scale Variability in Wind Stress and Heat Fluxes off South-Central Chile}",
+JOURNAL="Dynamics of Atmospheres and Oceans",
+VOLUME=65,
+PAGES="64-85",
+YEAR=2014
+}
+
+@ARTICLE{aiton65,
+AUTHOR="E.J. Aiton and Harold L. Burstyn",
+JOURNAL="Isis",
+VOLUME="56",
+NUMBER="1",
+PAGES="56-63",
+year=1965,
+TITLE="{Galileo and the Theory of the Tides}"
+}
+
+@ARTICLE{alberty99,
+TITLE="{Remarks Around 50 Lines of Matlab: Short Finite Element Implementation}",
+AUTHOR="Jochen Alberty and Carsten Carstensen and Stefan A. Funken",
+JOURNAL="Numerical Algorithms",
+VOLUME=20,
+PAGES="117-137",
+YEAR=1999
+}
+
+@ARTICLE{ali10,
+AUTHOR="Alfatih Ali and Henrik Kalisch",
+TITLE="{Energy Balance for Undular Bores}",
+JOURNAL="Comptes Rendus Mecanique",
+VOLUME=338,
+PAGES="67-70",
+YEAR=2010
+}
+
+@MISC{ambati09,
+AUTHOR="V.R. Ambati and F.A. Klaver and J.J.W. {van der Vegt} and O. Bokhove",
+TITLE="{Coupling Numerical Models for Shallow and Deep Water Waves}",
+HOWPUBLISHED="Slides from Presentation - Castro-Urdiales, Cantabria, Spain. Available online at \url{http://www.math.sciences.univ-nantes.fr/~berthon/conferences/castro_2009/talks/contributed/ambati.pdf} [accessed 23/8/15]",
+YEAR=2009
+}
+
+@ARTICLE{aristoff04,
+AUTHOR="Jeffrey M. Aristoff and Jeffrey D. Leblanc and Annette E. Hosoi and John W.M. Bush",
+TITLE="{Viscous Hydraulic Jumps}",
+JOURNAL="Physics of Fluids",
+VOLUME=16,
+NUMBER=9,
+PAGES="S4",
+YEAR=2004
+}
+
+@MISC{arnold15,
+AUTHOR="Steve Arnold",
+TITLE="{SOEE3431} Atmospheric Pollution: Causes, Impacts and Regulation Lecture notes; Lecture 4",
+HOWPUBLISHED="[online]. [Accessed 19/4/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2015
+}
+
+@INPROCEEDINGS{artale09,
+TITLE="{The Gibraltar Strait: A Tipping element of the Mediterranean Ocean Circulation}",
+AUTHOR="Vincenzo Artale and Adriana Carillo and Gianmaria Sannino",
+PUBLISHER="IOP Publishing",
+YEAR="2009",
+BOOKTITLE="Climate Change: Global Risks, Challenges and Decisions",
+SERIES="IOP Conf. Series: Earth and Environmental Science",
+VOLUME="6"
+}
+
+@ARTICLE{ashkenazy12,
+TITLE="{A New Approximation for the Dynamics of Topographic Rossby Waves}",
+AUTHOR="Yosef Ashkenazy and Nathan Paldor and Yair Zarmi",
+JOURNAL="Tellus",
+SERIES="A",
+VOLUME=64,
+NUMBER=18160,
+PAGES="1-13",
+YEAR=2012
+}
+
+@book{atkinson89,
+TITLE="{An Introduction to Numerical Analysis}",
+AUTHOR="Kendall E. Atkinson",
+EDITION="2",
+PUBLISHER="Toronto: John Wiley \& Sons",
+YEAR="1989"
+}
+
+@techreport{avila05a,
+author="Lixion Avila",
+title="{Tropical Storm Katrina, Discussion Number 6 [11 PM EDT WED AUG 24 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.006.shtml} [accessed 6/11/14]"
+}
+
+@techreport{avila05b,
+author="Lixion Avila",
+title="{Tropical Storm Katrina, Discussion Number 10 [11 PM EDT THU AUG 25 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.010.shtml} [accessed 6/11/14]"
+}
+
+@book{batchelor00,
+   title =     {An Introduction to Fluid Dynamics },
+   author =    "G. K. Batchelor",
+   publisher = "Cambridge: University Press",
+   year =      {2000},
+   series =    {Cambridge Mathematical Library}
+ }
+
+@ARTICLE{batstone05,
+AUTHOR="Crispian P. Batstone and Adrian J. Matthews and David P. Stevens",
+TITLE="{Coupled Ocean-Atmosphere Interactions between the Madden-Julian Oscillation and Synoptic-Scale Variability over the Warm Pool}",
+JOURNAL="Journal of Climate",
+VOLUME=18,
+PAGES="2004-2020",
+YEAR=2005
+}
+
+@book{bede03,
+AUTHOR="the Venerable Bede",
+TITLE="{Opera de Temporibus}",
+YEAR="703",
+PUBLISHER="trans. F. Wallis (1999), Liverpool: Liverpool University Press"
+}
+
+@ARTICLE{bellamy45,
+AUTHOR="John C. Bellamy",
+TITLE="{The Use of Pressure Altitude and Altimeter Corrections in Meteorology}",
+JOURNAL="Journal of Meteorology",
+VOLUME="2",
+NUMBER="1",
+YEAR="1945",
+MONTH="March"
+}
+
+@ARTICLE{benjamin67,
+TITLE="{Gravity Currents and Related Phenomena}",
+AUTHOR="T. Brooke Benjamin",
+JOURNAL="Journal of Fluid Mechanics",
+VOLUME="31",
+NUMBER="2",
+PAGES="209-248",
+YEAR="1967"
+}
+
+@ARTICLE{bertrand78,
+AUTHOR="J. Bertrand",
+TITLE="{Sur L'Homog\'{e}n\'{e}it\'{e} dans les Formules de Physique}",
+JOURNAL="Comptes Rendus",
+VOLUME=86,
+NUMBER=15,
+PAGES="916-920",
+YEAR=1878
+}
+
+@techreport{beven05,
+author="Jack Beven",
+title="{Tropical Storm Katrina, Discussion Number 7 [5 AM EDT THU AUG 25 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.007.shtml} [accessed 6/11/14]"
+}
+
+@ARTICLE{blackadar68,
+AUTHOR="Alfred K. Blackadar and Hendrik Tennekes",
+TITLE="{Asymptotic Similarity in Neutral Barotropic Planetary Boundary Layers}",
+JOURNAL="Journal of the Atmospheric Sciences",
+VOLUME="25",
+YEAR="1968"
+}
+
+@MISC{bokhove08,
+AUTHOR="Onno Bokhove and Jaap J.W. {van der Vegt}",
+TITLE="{Introduction to (Dis)Continuous Galerkin Finite Element Methods}",
+HOWPUBLISHED="Lecture Notes, University of Twente",
+YEAR=2008
+}
+
+@MISC{bokhove09,
+AUTHOR="J.J.W. {van der Vegt} and Onno Bokhove",
+TITLE="{Finite Element Methods for Partial Differential Equations}",
+HOWPUBLISHED="Lecture Notes, University of Twente",
+YEAR=2009
+}
+
+@MISC{bokhove13,
+AUTHOR="Onno Bokhove",
+TITLE="{Compatible Space-Time Finite Element Discretizations for Wave Tanks}",
+HOWPUBLISHED="Presentation: SciCADE, Valladolid",
+YEAR=2013
+}
+
+@MISC{bokhove14,
+AUTHOR="Onno Bokhove",
+TITLE="{Numerical Methods for Fluid Dynamics}",
+HOWPUBLISHED="Lecture Notes",
+YEAR=2014
+}
+
+@MISC{bokhove15,
+AUTHOR="Onno Bokhove and Stephen Griffiths",
+TITLE="{MATH5458M} Geophysical Fluid Dynamics, Lecture Notes",
+HOWPUBLISHED="[online]. [Accessed 01/02/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2015
+}
+
+@ARTICLE{bonneton10,
+AUTHOR="P. Bonneton and E. Barthelemy and J.D. Carter and F. Chazel and R. Cienfuegos and D. Lannes and F. Marche and M. Tissier",
+TITLE="{Fully Nonlinear Weakly Dispersive Modelling of Wave Transformation, Breaking and Runup}",
+JOURNAL="arXiv preprint",
+VOLUME="1004.3480",
+YEAR=2010
+}
+
+@ARTICLE{bonneton11,
+AUTHOR="P.Bonneton and J. {Van de Loock} and J-P. Parisot and N. Bonneton and A. Sottolichio and G. Detandt and B. Castelle and V. Marieu and N. Pochon",
+TITLE="{On the Occurence of Tidal Bores - The Garonne River Case}",
+JOURNAL="Journal of Coastal Research",
+VOLUME="SI 64",
+PAGES="1462-1466",
+YEAR=2011
+}
+
+@MISC{boon03,
+AUTHOR="John D. Boon",
+YEAR=2003,
+TITLE="Tide Analysis",
+ORGANIZATION="Virginia Institute of Marine Science",
+NOTE="Webpage, available at \url{http://web.vims.edu/physical/research/TCTutorial/tideanalysis.htm} [accessed 19/1/15]."
+}
+
+@ARTICLE{bowden56,
+TITLE="{The Flow of Water through the Straits of Dover, Related to Wind and Differences in Sea Level}",
+AUTHOR="K.F. Bowden",
+JOURNAL="Philosophical Transactions of the Royal Society of London. Series A. Mathematical and Physical Sciences",
+VOLUME=248,
+NUMBER=953,
+PAGES="517-551",
+YEAR=1956
+}
+
+@ARTICLE{bowers13,
+TITLE="{On the Formation of Tide-Produced Seiches and Double High Waters in Coastal Seas}",
+AUTHOR="D.G. Bowers and R.G. Macdonald and D. {McKee} and W.A.M. Nimmo-Smith and G.W. Graham",
+JOURNAL="Estaurine, Coastal and Shelf Science",
+VOLUME=134,
+PAGES="108-116",
+YEAR=2013
+}
+
+@BOOK{braun93,
+TITLE="{Differential Equations and Their Applications}",
+AUTHOR="Martin Braun",
+PUBLISHER="New York: Springer",
+EDITION=4,
+YEAR=1993
+}
+
+@ARTICLE{brechler92,
+AUTHOR="Josef Brechler",
+TITLE="{A Radiation Boundary Condition for Finite-Element Models: 1-D Linear Advection Test}",
+JOURNAL="Studia Geophysica et Geodaetica",
+VOLUME=36,
+PAGES="188-197",
+YEAR=1992
+}
+
+@book{brown99,
+TITLE="{Waves, Tides and Shallow-Water Processes}",
+AUTHOR="Evelyn Brown and Angela Colling and Dave Park and John Phillips and Dave Rothery and John Wright",
+PUBLISHER="Singapore: Butterworth-Heinemann",
+ORGANIZATION="The Open University",
+YEAR=1999
+}
+
+@ARTICLE{buckingham14,
+AUTHOR="E. Buckingham",
+TITLE="{On Physically Similar Systems; Illustrations of the Use of Dimensional Equations}",
+JOURNAL="Physical Review",
+VOLUME=4,
+NUMBER=4,
+PAGES="345-376",
+YEAR=1914
+}
+
+@ARTICLE{bulatov11,
+TITLE="{Regularized Shallow Water Equations and an Efficient Method for Numerical Simulation of SHallow Water Flows}",
+AUTHOR="O.V. Bulatov and T.G. Elizarova",
+JOURNAL="Computational Mathematics and Mathematical Physics",
+VOLUME=51,
+NUMBER=1,
+YEAR=2011
+}
+
+@book{butler62,
+TITLE="{An Introduction to Numerical Methods}",
+AUTHOR="Ronald Butler and Edwin Kerr",
+year="1962",
+PUBLISHER="Bath: Sir Isaac Pitman \& Sons Ltd"
+}
+
+@BOOK{cain06,
+TITLE="{Separation of Variables for Partial Differential Equations: an Eigenfunction Approach}",
+AUTHOR="George Cain and Gunter H. Meyer",
+PUBLISHER="Boca Raton, FL: Chapman \& Hall/CRC",
+YEAR=2006
+}
+
+@ARTICLE{campbell98,
+TITLE="{The Dynamical Balance of Flow in the Menai Strait}",
+AUTHOR="A.R. Campbell and J.H. Simpson and G.L. Allen",
+JOURNAL="Estaurine, Coastal and Shelf Science",
+VOLUME=46,
+PAGES="449-455",
+YEAR=1998
+}
+
+@BOOK{canada04,
+TITLE="{Guide to Bridge Hydraulics}",
+AUTHOR="Transport Association of Canada",
+PUBLISHER="London, NO:Thomas Telford",
+YEAR=2004
+}
+
+@ARTICLE{candela91,
+AUTHOR="Julio Candela",
+TITLE="{The Gibraltar Strait and its Role in the Dynamics of the Mediterranean Sea}",
+JOURNAL="Dynamics of Atmospheres and Oceans",
+VOLUME="15",
+YEAR=1991,
+PAGES="267-299"
+}
+
+@MISC{cangiani12,
+AUTHOR="Andrea Cangiani and Manios Georgoulis",
+TITLE="{MA4011} Computational Methods for Partial Differential Equations, Lecture Notes",
+HOWPUBLISHED="[online]. [Accessed 25/5/14] Available from \url{http://blackboard.le.ac.uk}",
+YEAR=2012
+}
+
+@ARTICLE{carruthers30,
+TITLE="{The Water Movements in the Straits of Dover. Exceptional Currents in Winter 1929-30}",
+AUTHOR="J.N. Carruthers",
+JOURNAL="Journal du Conseil International pour l'\'{E}xploration de la Mer",
+VOLUME=5,
+NUMBER=2,
+PAGES="161-191",
+YEAR=1930
+}
+
+@ARTICLE{carter07,
+AUTHOR="Glenn S. Carter and Mark A. Merrifield",
+TITLE="{Open Boundary Conditions for Regional Tidal Simulations}",
+JOURNAL="Ocean Modelling",
+VOLUME=18,
+PAGES="194-209",
+YEAR=2007
+}
+
+@ARTICLE{cartwright69,
+TITLE="{Extraordinary Tidal Currents near St Kilda}",
+AUTHOR="D.E. Cartwright",
+JOURNAL="Nature",
+VOLUME=223,
+PAGES="928-932",
+YEAR=1969
+}
+
+@ARTICLE{cartwright80,
+TITLE="{On the St Kilda Shelf Tidal Regime}",
+AUTHOR="D.E. Cartwright and J.M. Huthnance and R. Spencer and J.M. Vassie",
+JOURNAL="Deep Sea Research",
+VOLUME="27A",
+PAGES="61-70",
+YEAR=1980
+}
+@BOOK{cartwright99,
+TITLE="{Tides: A Scientific History}",
+AUTHOR="David Edgar Cartwright",
+PUBLISHER="Cambridge: Cambridge University Press",
+YEAR="1999"
+}
+
+@ARTICLE{castro11,
+AUTHOR="Oscar Castro-Orgaz and Hubert Chanson",
+TITLE="{Near-Critical Free-Surface Flows: Real Fluid Flow Analysis}",
+JOURNAL="Environmental Fluid Mechanics",
+VOLUME=11,
+PAGES="499-516",
+YEAR=2011
+}
+
+@ARTICLE{casulli11,
+AUTHOR="Vincenzo Casulli and Guus S. Stelling",
+TITLE="{Semi-Implicit Subgrid Modelling of Three-Dimensional Free-Surface Flows}",
+JOURNAL="International Journal for Numerical Methods in Fluids",
+VOLUME=67,
+PAGES="441-449",
+YEAR=2011
+}
+
+@ARTICLE{chachereau11,
+AUTHOR="Yann Chachereau and Hubert Chanson",
+TITLE="{Free-Surface Fluctuations and Turbulence in Hydraulic Jumps}",
+JOURNAL="Experimental Thermal and Fluid Science",
+VOLUME=35,
+PAGES="896-909",
+YEAR=2011
+}
+
+@ARTICLE{changnon76,
+AUTHOR="Stanley A. {Changnon Jr}",
+TITLE="{Inadvertent Weather Modification}",
+JOURNAL="Water Resources Bulletin",
+VOLUME=12,
+NUMBER=4,
+PAGES="695-718",
+YEAR=1976
+}
+
+@ARTICLE{chanson00,
+AUTHOR="H. Chanson and T. Brattberg",
+TITLE="{Experimental Study of the Air-Water Shear Flow in a Hydraulic Jump}",
+JOURNAL="International Journal of Multiphase Flow",
+VOLUME=26,
+PAGES="583-607",
+YEAR=2000
+}
+@inproceedings{chanson01,
+AUTHOR="H. Chanson",
+TITLE="{Flow Field in a Tidal Bore: A Physical Model}",
+BOOKTITLE="Proceedings of the 29th IAHR Congress",
+PAGES="365-373",
+YEAR=2001
+}
+
+@ARTICLE{chanson02,
+AUTHOR="Hubert Chanson",
+TITLE="{Hydraulic Condition for Undular-Jump Formations}",
+JOURNAL="Journal of Hydraulic Research",
+VOLUME=40,
+NUMBER=3,
+PAGES="379-384",
+YEAR=2002
+}
+
+@ARTICLE{chanson04,
+AUTHOR="Eric Wolanski and David Williams and Simon Spagnol and Hubert Chanson",
+TITLE="{Undular Tidal Bore Dynamics in the Daly Estuary, Northern Australia}",
+JOURNAL="Estuarine, Coastal and Shelf Science",
+VOLUME=60,
+PAGES="629-636",
+YEAR=2004
+}
+
+@ARTICLE{chanson05,
+AUTHOR="H. Chanson Miahr",
+TITLE="{Physical Modelling of the Flow Field in an Undular Tidal Bore}",
+JOURNAL="Journal of Hydraulic Research",
+VOLUME=44,
+NUMBER=3,
+PAGES="234-244",
+YEAR=2005
+}
+
+@inbook{chanson06,
+AUTHOR="H. Chanson and C. Koch",
+TITLE="{Unsteady Turbulence Characteristics in a Tidal Bore}",
+BOOKTITLE="River Flow",
+EDITOR="Rui M.L. Ferreira and Elsa C.T.L. Alves and Joao G.A.B. Leal and Antonio H. Cardoso",
+CHAPTER="A1: Turbulent Open Channel Flow and Transport Phenomena",
+PAGES="79-88",
+PUBLISHER="London: Taylor \& Francis",
+YEAR=2006
+}
+@inproceedings{chanson07,
+AUTHOR="Hubert Chanson",
+TITLE="{Hydraulic Jumps: Bubbles and Bores}",
+BOOKTITLE="{16th Australasian Fluid Mechanics Conference}",
+YEAR=2007
+}
+@inproceedings{chanson08,
+AUTHOR="Hubert Chanson",
+TITLE="{Digital Publishing, Ethics and Hydraulic Engineering: The Elusive or ``Boring'' Bore?}",
+BOOKTITLE="{2nd IJERW on Hydraulic Structures}",
+YEAR=2007,
+EDITOR="S. Pagliara"
+}
+
+@ARTICLE{chanson09b,
+AUTHOR="Hubert Chanson",
+TITLE="{Current Knowledge in Hydraulic Jumps and Related Phenomena. A Survey of Experimental Results}",
+JOURNAL="European Journal of Mechanics B/Fluids",
+VOLUME=28,
+PAGES="191-210",
+YEAR=2009
+}
+
+@ARTICLE{chanson09c,
+AUTHOR="Hubert Chanson",
+TITLE="{Development of the B}\'{e}{langer Equation and Backwater Equation by Jean-Baptiste B}\'{e}{langer (1828)}",
+JOURNAL="Journal of Hydraulic Engineering",
+VOLUME=135,
+PAGES="159-163",
+YEAR=2009
+}
+
+@ARTICLE{chanson09d,
+AUTHOR="Hubert Chanson",
+TITLE="{The Rumble Sound Generated by a Tidal Bore Event in the Baie du Mont Saint Michel}",
+JOURNAL="Journal of the Acoustical Society of America",
+VOLUME=125,
+NUMBER=6,
+PAGES="3561-3568",
+YEAR=2009
+}
+
+@ARTICLE{chanson09e,
+AUTHOR="Hubert Chanson",
+TITLE="{Current Knowledge in Hydraulic Jumps and Related Phenomena. A Survey of Experimental Results}",
+JOURNAL="European Journal of Mechanics B/Fluids",
+VOLUME=28,
+PAGES="191-210",
+YEAR=2009
+}
+
+@ARTICLE{chanson10,
+AUTHOR="Hubert Chanson",
+TITLE="{Unsteady Turbulence in Tidal Bores: Effects of Bed Roughness}",
+JOURNAL="Journal of Waterway, Port, Coastal and Ocean Engineering",
+VOLUME=136,
+PAGES="247-256",
+YEAR=2010
+}
+
+@ARTICLE{chanson10b,
+AUTHOR="Hubert Chanson",
+TITLE="{Undular Tidal Bores: Basic Theory and Free-Surface Characteristics}",
+JOURNAL="Journal of Hydraulic Engineering",
+VOLUME=136,
+PAGES="940-944",
+YEAR=2010
+}
+
+@inproceedings{chanson10c,
+AUTHOR="Hubert Chanson",
+TITLE="{Undular Bores}",
+BOOKTITLE="{Second International Conference on Coastal Zone Engineering and Management}",
+YEAR=2010
+}
+
+@ARTICLE{chanson11,
+AUTHOR="Hubert Chanson",
+TITLE="{Turbulent Shear Stresses in Hydraulic Jumps, Bores and Decelerating Surges}",
+JOURNAL="Earth Surface Processes and Landforms",
+VOLUME=36,
+PAGES="180-189",
+YEAR=2011
+}
+
+@ARTICLE{chanson11b,
+AUTHOR="Hubert Chanson",
+TITLE="{Undular Tidal Bores: Effect of Channel Constriction and Bridge Piers}",
+JOURNAL="Environmental Fluid Mechanics",
+VOLUME=11,
+PAGES="385-404",
+YEAR=2011
+}
+@ARTICLE{chanson11c,
+AUTHOR="Hubert Chanson",
+TITLE="{Current Knowledge in Tidal Bores and their Environmental, Ecological and Cultural Impacts}",
+JOURNAL="Environmental Fluid Mechanics",
+VOLUME=11,
+PAGES="77-98",
+YEAR=2011
+}
+
+@ARTICLE{chanson12,
+AUTHOR="Hubert Chanson",
+TITLE="{Momentum Considerations in Hydraulic Jumps and Bores}",
+JOURNAL="Journal of Irrigation and Drainage Engineering",
+VOLUME=138,
+PAGES="382-385",
+YEAR=2012
+}
+
+@INCOLLECTION{chanson12b,
+AUTHOR="Hubert Chanson and Pierre Lubin and St\'{e}phane Glockner",
+TITLE="{Unsteady Turbulence in a Shock: Physical and Numerical Modelling in Tidal Bores and Hydraulic Jumps}",
+BOOKTITLE="{Turbulence: Theory, Types and Simulation}",
+EDITOR="Russell J. Marcuso",
+CHAPTER=3,
+PUBLISHER="New York: Nova Science",
+YEAR=2012
+}
+
+@BOOK{chanson12c,
+TITLE="{Tidal Bores, Aegir, Eagre, Mascaret, Pororoca: Theory and Observations}",
+AUTHOR="Hubert Chanson",
+PUBLISHER="Singapore: World Scientific",
+YEAR=2012
+}
+
+@ARTICLE{chanson13,
+AUTHOR="Hubert Chanson",
+TITLE="{Explicit Equations for Critical Depth in Open Channels with Complex Compound Cross Sections. A Discussion}",
+JOURNAL="Flow Measurement and Instrumentation",
+VOLUME=29,
+PAGES="65-66",
+YEAR=2013
+}
+
+@ARTICLE{chanson13b,
+AUTHOR="Hubert Chanson and Yann Chachereau",
+TITLE="{Scale Effects Affecting Two-Phase Flow Properties in Hydraulic Jump with Small Inflow Froude Number}",
+JOURNAL="Experimental Thermal and Fluid Science",
+VOLUME=45,
+PAGES="234-242",
+YEAR=2013
+}
+
+@inproceedings{chanson13c,
+AUTHOR="Hubert Chanson",
+TITLE="{Tidal Bore Research: Field Works, Physical Modeling, CFD & More}",
+BOOKTITLE="{Proceedings of 2013 IAHR World Congress}",
+YEAR=2013
+}
+
+@ARTICLE{chanson15,
+AUTHOR="Hubert Chanson and Yit-Haw Toi",
+TITLE="{Physical Modelling of Breaking Tidal Bores: Comparison with Prototype Data}",
+JOURNAL="Journal of Hydraulic Research",
+VOLUME=53,
+NUMBER=2,
+PAGES="264-273",
+YEAR=2015
+}
+@ARTICLE{chanson96,
+AUTHOR="Hubert Chanson",
+TITLE="{Free-Surface Flows with Near-Critical Flow Conditions}",
+JOURNAL="Canadian Journal of Civil Engineering",
+VOLUME=23,
+PAGES="1272-1284",
+YEAR=1996
+}
+
+@ARTICLE{chanson98,
+AUTHOR="J.S. Montes and H. Chanson",
+TITLE="{Characteristics of Undular Hydraulic Jumps: Experiments and Analysis}",
+JOURNAL="Journal of Hydraulic Engineering",
+VOLUME=124,
+PAGES="192-205",
+YEAR=1998
+}
+
+@ARTICLE{charney50,
+TITLE="{Numerical Integration of the Barotropic Vorticity Equation}",
+AUTHOR="Jule G. Charney and Ragnar Fj{\o}rtoft and John von Neumann",
+YEAR="1950",
+JOURNAL="Tellus",
+VOLUME="2",
+NUMBER="4"
+}
+
+@ARTICLE{charnock55,
+AUTHOR="H. Charnock",
+TITLE="{Wind Stress on a Water Surface}",
+JOURNAL="Quarterly Journal of the Royal Meteorological Society",
+YEAR=1955,
+VOLUME=81,
+PAGES="639-640"
+}
+
+@ARTICLE{chelton96,
+TITLE="{Global Observations of Oceanic Rossby Waves}",
+AUTHOR="Dudley B. Chelton and Michael G. Schlax",
+JOURNAL="Science",
+VOLUME=272,
+PAGES="234-238",
+YEAR=1996
+}
+
+@article{chen11,
+  title="{Programming of finite element methods in MATLAB}",
+  author="Long Chen",
+  journal="Preprint, University of California Irvine. Available at \url{http://math.uci.edu/~chenlong/226/Ch3FEMCode.pdf} [Accessed 22/6/15]",
+  year=2011
+}
+
+@ARTICLE{chen87,
+AUTHOR="Dake Chen and Jilan Su",
+TITLE="{Continental Shelf Waves Along the Coasts of China}",
+JOURNAL="Acta Oceanologica Sinica",
+VOLUME=6,
+NUMBER=3,
+YEAR=1987
+}
+
+@CONFERENCE{letchford09,
+AUTHOR="Chris W. Letchford and Brian C. Zachry",
+TITLE="{On Wind, Waves and Surface Drag}",
+YEAR="2009",
+BOOKTITLE="5th European and African Conference on Wind Engineering"
+}
+
+@MISC{chris075,
+TITLE="{The Trent Aegir at Gainsborough, Lincolnshire}",
+MONTH="20 September",
+YEAR="2005",
+HOWPUBLISHED="Image, Online, available at \url{https://en.wikipedia.org/wiki/Trent_Aegir#/media/File:Trent_Aegir_3.JPG}. In Wikimedia Commons, uploaded by Chris075. [accessed 27/8/15]."
+}
+
+@ARTICLE{clarke77a,
+TITLE="{Observational and Numerical Evidence for Wind-Forced Coastal Trapped Long Waves}",
+AUTHOR="Allan J. Clarke",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=7,
+PAGES="231-247",
+YEAR=1977
+}
+
+@ARTICLE{clarke77b,
+TITLE="{Wind-Forced Linear and Nonlinear Kelvin Waves along an Irregular Coastline}",
+AUTHOR="Allan J. Clarke",
+JOURNAL="Journal of Fluid Mechanics",
+VOLUME=83,
+NUMBER=2,
+PAGES="337-348",
+YEAR=1997
+}
+
+@ARTICLE{clarke81,
+TITLE="{The Effect of Continental Shelves on Tides}",
+AUTHOR="Allan J. Clarke and David S. Battisti",
+JOURNAL="Deep-Sea Research",
+VOLUME="28A",
+NUMBER=7,
+PAGES="665-682",
+YEAR=1981
+}
+
+@article{courant67,
+ author = {Richard Courant and Kurt O. Friedrichs and Hans Lewy.},
+ title = {On the Partial Difference Equations of Mathematical Physics},
+ journal = {IBM J. Res. Dev.},
+ volume = {11},
+ number = {2},
+ month = mar,
+ year = {1967},
+ publisher = {IBM Corp.}
+}
+
+@BOOK{coxeter47,
+AUTHOR="H.M. Coxeter",
+TITLE="{Regular Polytopes}",
+PUBLISHER="London: Methuen \& Co.",
+YEAR=1947
+}
+
+@MISC{crivelli08,
+AUTHOR="F. Crivelli",
+TITLE="{The St}{\"o}{rmer-Verlet Method}",
+HOWPUBLISHED="Seminar Notes: Numerical Analysis, ETH Zurich",
+YEAR=2008
+} 
+
+@book{csanady04,
+AUTHOR="G.T. Csanady",
+TITLE="{Air-Sea Interaction: Laws and Mechanisms}",
+PUBLISHER="Cambridge: University Press",
+YEAR=2004
+}
+
+@ARTICLE{dawson06,
+AUTHOR="Clint Dawson and Joannes J. Westerink and Jesse C. Feyen and Dharas Pothina",
+TITLE="{Continuous, Discontinuous and Coupled Discontinuous-Continuous Galerkin Finite Element Methods for the Shallow Water Equations}",
+JOURNAL="International Journal for Numerical Methods in Fluids",
+VOLUME=52,
+PAGES="63-88",
+YEAR=2006
+}
+
+@MISC{dawson08,
+AUTHOR="Clint Dawson and Christopher M. Mirabito",
+TITLE="{The Shallow Water Equations}",
+HOWPUBLISHED="[online]. [Accessed 15/06/15] Available from \url{http://users.ices.utexas.edu/~arbogast/cam397/dawson_v2.pdf}",
+YEAR=2008
+}
+
+@ARTICLE{dean65,
+TITLE="{Stream Function Representation of Nonlinear Ocean Waves}",
+AUTHOR="R.G. Dean",
+JOURNAL="Journal of Geophysical Research",
+VOLUME=70,
+NUMBER=18,
+YEAR=1965
+}
+
+@book{defant61,
+title="{Physical Oceanography, Volume 1}",
+author="Albert Defant",
+year=1961,
+publisher="Oxford: Pergamon Press"
+}
+
+@book{dehlinger78,
+AUTHOR="Peter Dehlinger",
+TITLE="{Marine Gravity}",
+PUBLISHER="Amsterdam: Elsevier",
+YEAR="1978"
+}
+
+@ARTICLE{delaunay34,
+AUTHOR="B. Delauney",
+TITLE="{Sur la Sph\`{e}re vide. A la M\'{e}moire de Georges Vorono{\"i}}",
+JOURNAL="Bulletin de l'Acad\'{e}mie de Sciences de l'URSS. Classe des Sciences Math\'{e}matiques et Naturelles",
+NUMBER=6,
+PAGES="793-800",
+YEAR=1934
+}
+
+@TECHREPORT{deltares11,
+AUTHOR="L.C. {van Rijn}",
+INSTITUTION="Deltares",
+TITLE="{Comparison Hydrodynamics and Salinity of Tide Estuaries; Elbe, Humber, Scheldt and Weser}",
+YEAR=2011
+}
+
+@ARTICLE{devloo87,
+AUTHOR="Philippe Devloo",
+TITLE="{The Implementation of Directional Boundary Conditions for Finite Element Computations with Iterative Solvers}",
+JOURNAL="Communications in Applied Numerical Methods",
+VOLUME=3,
+PAGES="259-264",
+YEAR=1987
+}
+
+@ARTICLE{dirichlet50,
+AUTHOR="G.L. Dirichlet",
+TITLE="{{\"U}ber die Reduction der Positiven Quadratischen Formen mit Drei Unbestimmten Ganzen Zahlen. [On the Reduction of Positive Quadratic Form with Three Indeterminate Integers. Trans. K.N. Tiyapan]}",
+JOURNAL="Journal f{\"u}r die Reine und Angewandte Mathematik",
+pages = {209-227},
+volume = {40},
+NOTE="Originally a Lecture to the Academy, 13th July 1848. [Translation in \emph{Voronoi Translated 2, Lulu.com, 2001, pp.~7-25}]",
+YEAR=1850
+}
+
+@ARTICLE{docherty12,
+AUTHOR="Nicholas J. Docherty and Hubert Chanson",
+TITLE="{Physical Modeling of Unsteady Turbulence in Breaking Tidal Bores}",
+JOURNAL="Journal of Hydraulic Engineering",
+VOLUME=138,
+NUMBER=4,
+PAGES="412-419",
+YEAR=2012
+}
+
+@MISC{dolejsi11,
+AUTHOR="V\'{i}t Dolej\v{s}\'{i}",
+TITLE="{Finite Element Methods: Implementations}",
+HOWPUBLISHED="Lecture Notes, Charles University Prague",
+YEAR=2011
+}
+
+@inproceedings{donnely02,
+AUTHOR="C. Donnelly and H. Chanson",
+TITLE="{Environmental Impact of Tidal Bores in Tropical Rivers}",
+BOOKTITLE="Proceedings of the 5th International River Management Symposium",
+PAGES="1-9",
+YEAR=2002
+}
+
+@ARTICLE{doodson21,
+AUTHOR="A.T. Doodson",
+TITLE="{The Harmonic Development of the Tide-Generating Potential}",
+JOURNAL="Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character",
+VOLUME=100,
+NUMBER=704,
+YEAR=1921,
+PAGES="305-329"
+}
+
+@book{dronkers64,
+AUTHOR="J.J. Dronkers",
+TITLE="{Tidal Computations in Rivers and Coastal Waters}",
+PUBLISHER="Amsterdam: North-Holland Publishing Company",
+YEAR=1964
+}
+
+@article{dudhia89,
+AUTHOR="Jimy Dudhia",
+title="{Numerical Study of Convection Observed during the Winter Monsoon Experiment Using a Mesoscale Two-Dimensional Model}",
+journal="Journal of the Atmospheric Sciences",
+VOLUME="46",
+NUMBER="20",
+YEAR="1989"
+}
+
+@BOOK{dyke07,
+TITLE="{Modeling Coastal and Offshore Processes}",
+AUTHOR="Phil Dyke",
+PUBLISHER="London: Imperial College Press",
+YEAR=2007
+}
+
+@INCOLLECTION{edwards88,
+EDITOR="P.J. Newman and A.R. Agg",
+AUTHOR="A.M.C. Edwards and D.R. Sayers and G. Woodward",
+TITLE="{The Water Quality Management of the Humber Estuary Committee}",
+BOOKTITLE="{Environmental Protection of the North Sea}",
+PUBLISHER="Oxford: Heinemann Professional",
+YEAR=1988
+}
+
+@MISC{elken04,
+AUTHOR="J{\"u}ri Elken",
+TITLE="{Oceanographic Processes and Environmental Conditions in the Semi-Enclosed Seas}",
+HOWPUBLISHED="Presentation: Marine Systems Institute, Tallinn University of Technology",
+YEAR=2004
+}
+
+@MISC{elken07,
+AUTHOR="J{\"u}ri Elken",
+TITLE="{Introduction to Operational Oceanography}",
+HOWPUBLISHED="Presentation: Marine Systems Institute, Tallinn University of Technology",
+YEAR=2007
+}
+
+@INCOLLECTION{emanuel07,
+	author= "Kerry Emanuel",
+	title	= "Quasi-Equilibrium Dynamics of the Tropical Atmosphere",
+	booktitle= "The Global Circulation of the Atmosphere",
+	publisher= "Princeton: University Press",
+	editor	= "T. Schneider and H. Sobel",
+	chapter= "7",
+	pages	= "385",
+	address= "Available at \url{ftp://texmex.mit.edu/pub/emanuel/PAPERS/chapter7.pdf} [accessed 22/04/15]",
+	year	= "2007"
+}
+
+@MISC{envagency15,
+AUTHOR="{Environment Agency}",
+TITLE="{River and Sea Levels}",
+HOWPUBLISHED="Website. Available at \url{http://apps.environment-agency.gov.uk/river-and-sea-levels/default.aspx}. [Accessed 26/8/15]",
+YEAR=2015
+}
+
+@BOOK{evans98,
+AUTHOR="Lawrence C. Evans",
+TITLE="{Partial Differential Equations}",
+PUBLISHER="Providence, RI: American Mathematical Society",
+YEAR=1998
+}
+
+@ARTICLE{farmer85,
+AUTHOR="D.M. Farmer and L. Armi",
+TITLE="{The Internal Hydraulics of the Strait of Gibraltar and Associated Sills and Narrows}",
+JOURNAL="Oceanologica Acta",
+VOLUME=8,
+NUMBER=1,
+YEAR=1985,
+PAGES="37-46",
+}
+
+@ARTICLE{farmer86,
+AUTHOR="D.M. Farmer and L. Armi",
+TITLE="{Maximal Two-Layer Exchange Over a Sill and Through the Combination of a Sill and Contraction with Barotropic Flow}",
+JOURNAL="Journal of Fluid Mechanics",
+VOLUME=164,
+PAGES="53-76",
+YEAR=1986
+}
+
+@MISC{flaherty05,
+AUTHOR="Joseph E. Flaherty",
+TITLE="{MATH6860} Finite Element Analysis, Lecture Notes - Rensselaer Polytechnic Institute",
+HOWPUBLISHED="[online]. [Accessed 01/08/15] Available from \url{http://www.cs.rpi.edu/~flaherje/}",
+YEAR=2005
+}
+
+@ARTICLE{flather76,
+AUTHOR="R.A. Flather",
+TITLE="{A Tidal Model of the North West Europeak Continental Shelf}",
+JOURNAL="Memoires de la Societe Royale de Sciences de Liege",
+VOLUME=6,
+NUMBER=10,
+PAGES="141-164",
+YEAR=1976
+}
+
+@ARTICLE{flather88,
+TITLE="{A Numerical Model Investigation of Tides and Diurnal-Period Continental Shelf Wave along Vancouver Island}",
+AUTHOR="Roger A. Flather",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=18,
+PAGES="115-139",
+YEAR=1988
+}
+
+@ARTICLE{fort08,
+AUTHOR="Tom Fort",
+TITLE="{River Trent: Going with the Flow of History}",
+JOURNAL="The Daily Telegraph",
+YEAR=2008,
+MONTH="15 March",
+NOTE="[online] [accessed 27/8/15] Available at \url{http://www.telegraph.co.uk/news/earth/3336220/River-Trent-Going-with-the-flow-of-history.html}"
+}
+
+@incollection{frank03,
+AUTHOR="Jason Frank and Georg A. Gottwald and Sebastian Reich",
+TITLE="{A Hamiltonian Particle-Mesh Method for the Rotating Shallow-Water Equations}",
+BOOKTITLE="{Meshfree Methods for Partial Differential Equations}",
+PUBLISHER="Berlin-Heidelberg: Springer",
+YEAR=2003,
+PAGES="131-142"
+}
+
+@book{friedrichs66,
+  title="{Special Topics in Fluid Dynamics}",
+  author="K.O. Friedrichs",  
+  year=1966,
+  publisher="New York: Gordon and Breach"
+}
+
+@article{fritz07,
+author="Herman M. Fritz and Chris Blount and Robert Sokoloski and Justin Singleton and Andrew Fuggle and Brian G. McAdoo and Andrew Moore and Chad Grass and Banks Tate",
+title="{Hurricane Katrina storm surge distribution and field observations on the Mississippi Barrier Islands}",
+year="2007",
+month="March",
+journal="Estuarine, Coastal and Shelf Science",
+volume="20",
+pages="1-9"
+}
+
+@article{fu02,
+author="Qiang Fu and K. N. Liou",
+title="{On the Correlated \emph{k}-Distribution Method for Radiative Transfer in Nonhomogeneous Atmospheres}",
+JOURNAL="Journal of the Atmospheric Sciences",
+VOLUME="49",
+NUMBER="22",
+YEAR="1992"
+}
+
+@TECHREPORT{furuyama08,
+AUTHOR="Sho-Ichi Furuyama and Hubert Chanson",
+TITLE="{A Numerical Study of Open Channel Flow Hydrodynamics and Turbulence of the Tidal Bore and Dam-Break Flows}",
+INSTITUTION="University of Queensland: Division of Civil Engineering",
+YEAR=2008
+}
+
+@ARTICLE{furuyama10,
+AUTHOR="Sho-Ichi Furuyama and Hubert Chanson",
+TITLE="{A Numerical Simulation of Tidal Bore Flow}",
+JOURNAL="Coastal Engineering Journal",
+VOLUME=52,
+NUMBER=3,
+PAGES="215-234",
+YEAR=2010
+}
+
+@ARTICLE{gagarina13,
+AUTHOR="E. Gagarina and J. {van der Vegt} and O. Bokhove",
+TITLE="{Horizontal Circulation and Jumps in Hamiltonian Wave Models}",
+JOURNAL="Nonlinear Processes in Geophysics",
+VOLUME=20,
+PAGES="483-500",
+YEAR=2013
+}
+
+@ARTICLE{galbally80,
+AUTHOR="I.E. Galbally and C.R. Roy",
+TITLE="{Destruction of Ozone at the Earth's Surface}",
+JOURNAL="Quarterly Journal of the Royal Meteorological Society",
+VOLUME=106,
+PAGES="599-620",
+YEAR=1980
+}
+
+@ARTICLE{garon92,
+AUTHOR="A. Garon and R. Camarero",
+TITLE="{Imposition of Normal and/or Tangential Boundary Conditions by an Augmented Lagrangian Technique}",
+JOURNAL="Computers and Structures",
+VOLUME=44,
+NUMBER="{1/2}",
+PAGES="405-408",
+YEAR=1992
+}
+
+@INPROCEEDINGS{genberg93,
+AUTHOR="Victor Genberg",
+TITLE="{Shape Function Interpolation of 2D and 3D Finite Element Results}",
+BOOKTITLE="Proceedings of the 1993 MSC World's User Conference",
+YEAR=1993
+}
+
+@incollection{george96,
+AUTHOR="P.L. George",
+TITLE="{Automatic Mesh Generation and Finite Element Computation}",
+BOOKTITLE="{Handbook of Numerical Analysis}",
+VOLUME=4,
+EDITOR="P.G. Ciarlet and J.L. Lions",
+PUBLISHER="Elsevier",
+YEAR=1996
+}
+
+@BOOK{george98,
+AUTHOR="Paul-Louis George and Houman Borouchaki",
+TITLE="{Delaunay Triangulation and Meshing: Application to Finite Elements}",
+PUBLISHER="Paris: Herm\`{e}s",
+YEAR=1998
+}
+
+@BOOK{gerald87,
+AUTHOR="Giraldus Cambrensis (Gerald of Wales)",
+TITLE="{Of the Wonders and Miracles of Ireland}",
+YEAR="1187",
+PUBLISHER="trans. in \emph{The Historical Works of Giraldus Cambrensis containing the Topography of Ireland} T. Forester (1863)"
+}
+
+@ARTICLE{gill74,
+AUTHOR="A.E. Gill and E.H. Schumann",
+TITLE="{The Generation of Long Shelf Waves by the Wind}",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=4,
+PAGES="83-90",
+YEAR=1974
+}
+
+@BOOK{gill82,
+TITLE="{Atmosphere-Ocean Dynamics}",
+AUTHOR="Adrian E. Gill",
+PUBLISHER="San Diego: Academic Press",
+YEAR=1982
+}
+
+@TECHREPORT{graumann05,
+TITLE="{Hurricane Katrina, A Climatological Perspective}",
+author="Axel Graumann and Tamara Houston and Jay Lawrimore and David Levinson and Neal Lott and Sam McCown and Scott Stephens and David Wuertz",
+year="2005",
+month="October",
+INSTITUTION="US Department of Commerce/NOAA/NESDIS",
+note="Available at \url{http://www.ncdc.noaa.gov/oa/reports/tech-report-200501z.pdf} [accessed 6/11/14]"
+}
+
+@TECHREPORT{gray62,
+AUTHOR="William M. Gray",
+TITLE="{On the Balance of Forces and Radial Accelerations in Hurricanes}",
+INSTITUTION="National Hurricane Research Project",
+NUMBER="54",
+YEAR="1962"
+}
+
+@ARTICLE{green76,
+AUTHOR="A.E. Green and P.M. Naghdi",
+TITLE="{A Derivation of Equations for Wave Propagation in Water of Variable Depth}",
+JOURNAL="Journal of Fluid Mechanics",
+VOLUME=78,
+NUMBER=2,
+PAGES="237-246",
+YEAR=1976
+}
+
+@ARTICLE{gregg04,
+TITLE="{Small-scale Processes in Straits}",
+AUTHOR="M.C. Gregg",
+JOURNAL="Deep Sea Research",
+VOLUME="II",
+NUMBER="51",
+PAGES="489-503",
+YEAR="2004"
+}
+
+@ARTICLE{grimshaw87,
+TITLE="{Resonant Forcing of Barotropic Coastally Trapped Waves}",
+AUTHOR="R. Grimshaw",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=17,
+PAGES="53-65",
+YEAR=1987
+}
+
+@MISC{hairer10,
+AUTHOR="Ernst Hairer",
+TITLE="{Geometric Numerical Integration, Lecture 2: Symplectic Integrators}",
+HOWPUBLISHED="Lecture Notes (TU M{\"u}nchen)",
+YEAR=2010
+}
+
+@ARTICLE{hanert05,
+AUTHOR="Emmanuel Hanert and Daniel Y. {Le Roux} and Vincent Legat and Eric Deleersnijder",
+TITLE="{An Efficient Eulerian Finite Element Method for the Shallow Water Equations}",
+JOURNAL="Ocean Modelling",
+VOLUME=10,
+PAGES="115-136",
+YEAR=2005
+}
+
+@book{hardisty09,
+TITLE="{The Analysis of Tidal Stream Power}",
+AUTHOR="Jack Hardisty",
+PUBLISHER="New York: John Wiley \& Sons",
+YEAR=2009
+}
+
+@MISC{harlen14c1,
+AUTHOR="O. Harlen",
+TITLE="{MATH3620} Chapter 1",
+HOWPUBLISHED="[online]. [Accessed 14/02/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2014
+}
+
+@MISC{harlen14c2,
+AUTHOR="O. Harlen",
+TITLE="{MATH3620} Chapter 2",
+HOWPUBLISHED="[online]. [Accessed 14/02/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2014
+}
+
+@MISC{harlen14c3,
+AUTHOR="O. Harlen",
+TITLE="{MATH3620} Chapter 3",
+HOWPUBLISHED="[online]. [Accessed 14/02/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2014
+}
+
+@MISC{harlen14c4,
+AUTHOR="O. Harlen",
+TITLE="{MATH3620} Chapter 4",
+HOWPUBLISHED="[online]. [Accessed 14/02/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2014
+}
+
+@MISC{harlen14c5,
+AUTHOR="O. Harlen",
+TITLE="{MATH3620} Chapter 5",
+HOWPUBLISHED="[online]. [Accessed 14/02/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2014
+}
+
+@MISC{harlen14c6,
+AUTHOR="O. Harlen",
+TITLE="{MATH3620} Chapter 6",
+HOWPUBLISHED="[online]. [Accessed 14/02/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2014
+}
+
+@MISC{harlen14c7,
+AUTHOR="O. Harlen",
+TITLE="{MATH3620} Chapter 7",
+HOWPUBLISHED="[online]. [Accessed 14/02/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2014
+}
+
+@MISC{harlen14c8,
+AUTHOR="O. Harlen",
+TITLE="{MATH3620} Chapter 8",
+HOWPUBLISHED="[online]. [Accessed 14/02/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2014
+}
+
+@BOOK{harrison96,
+AUTHOR="R.M. Harrison and S.J. de Mora",
+TITLE="{Introductory Chemistry for the Atmospheric Sciences}",
+EDITION=2,
+PUBLISHER="Cambridge: University Press",
+YEAR=1996
+}
+
+@ARTICLE{harvey67,
+TITLE="{The Effect of Weather on Water Level in the Menai Straits}",
+AUTHOR="J.G. Harvey",
+JOURNAL="Deutsche Hydrographische Zeitschrift",
+VOLUME=20,
+NUMBER=2,
+YEAR=1967
+}
+
+@ARTICLE{harvey68,
+TITLE="{The Flow of Water through the Menai Straits}",
+AUTHOR="J.G. Harvey",
+JOURNAL="Geophysics Journal, Royal Astronomical Society",
+VOLUME=15,
+PAGES="517-528",
+YEAR=1968
+}
+
+@BOOK{hearn08,
+TITLE="{The Dynamics of Coastal Models}",
+AUTHOR="Clifford J. Hearn",
+PUBLISHER="Cambridge: University Press",
+YEAR=2008
+}
+
+@BOOK{heath05,
+AUTHOR="Michael T. Heath",
+TITLE="{Scientific Computing: An Introductory Survey}",
+EDITION=2,
+PUBLISHER="New York: McGraw Hill",
+YEAR=2005
+}
+
+@book{heath13,
+AUTHOR="{Sir Thomas} {Heath}",
+TITLE="{Aristarchus of Samos, The Ancient Copernicus}",
+YEAR="1913",
+PUBLISHER="Oxford: Clarendon Press"
+}
+
+@article{helmholtz67,
+  title="{LXIII. On Integrals of the Hydrodynamical Equations, which express Vortex-Motion}",
+  author="Helmholtz, H von",
+  journal="The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science",
+  volume=33,
+  number=226,
+  pages="485-512",
+  year=1867,
+  publisher="Taylor \& Francis"
+}
+
+@MISC{herman08,
+TITLE="{A Second Course in Ordinary Differential Equations: Dynamical Systems and Boundary Value Problems}",
+AUTHOR="R.L. Herman",
+HOWPUBLISHED="[online] [accessed 11/5/15] Available at \url{http://people.uncw.edu/hermanr/mat463/ODEBook/}",
+YEAR=2008
+}
+
+@ARTICLE{hill03,
+AUTHOR="D.F. Hill",
+TITLE="{Transient and Steady-State Amplitudes of Forced Waves in Rectangular Basins}",
+JOURNAL="Physics of Fluids",
+VOLUME=15,
+NUMBER=6,
+YEAR=2003
+}
+
+@MISC{hmno15,
+AUTHOR="{HM Nautical Almanac Office}",
+TITLE="{Sunrise/set times for the United Kingdom}",
+HOWPUBLISHED="[online]. [Accessed 17/4/15] Available from \url{http://astro.ukho.gov.uk}",
+YEAR=2015
+}
+
+@ARTICLE{hole88,
+AUTHOR="K. Ho-Le",
+TITLE="{Finite Element Mesh Generation Methods: A Review and Classification}",
+JOURNAL="Computer-Aided Design",
+VOLUME=20,
+NUMBER=1,
+PAGES="27-38",
+YEAR=1988
+}
+
+@BOOK{holland90,
+AUTHOR="Samuel S. Holland",
+TITLE="{Applied Analysis by the Hilbert Space Method}",
+SERIES="Monographs and Textbooks in Pure and Applied Mathematics",
+NUMBER=137,
+PUBLISHER="New York: Marcel Dekker",
+YEAR=1990
+}
+
+@book{holton13,
+author="James R. Holton and Gregory J. Hakim",
+EDITION="5th",
+TITLE="An Introduction to Dynamic Meteorology",
+PUBLISHER="New York: Elsevier Academic Press",
+YEAR="2013"
+}
+
+@ARTICLE{hoskins85,
+AUTHOR="B.J. Hoskins and M.E. {McIntyre} and A.W. Robertson",
+TITLE="{On the Use and Significance of Isentropic Potential Vorticity Maps}",
+JOURNAL="Quarterly Journal of the Royal Meteorological Society",
+VOLUME=111,
+NUMBER=470,
+PAGES="877-946",
+YEAR=1985
+}
+
+@ARTICLE{hu98,
+AUTHOR="K. Hu and C.G. Mingham and D.M. Causon",
+TITLE="{A Bore-Capturing Finite Volume Method for Open-Channel Flows}",
+JOURNAL="International Journal for Numerical Methods in Fluids",
+VOLUME=28,
+PAGES="1241-1261",
+YEAR=1998
+}
+
+@INCOLLECTION{huang12,
+AUTHOR="C.H. Huang",
+TITLE="{Modification of the Charnock Wind Stress Formula to Include the Effects of Free Convection and Swell}",
+BOOKTITLE="{Advanced Methods for Practical Applications in Fluid Mechanics}",
+PUBLISHER="Rijeka: InTech",
+EDITOR="Steven Jones",
+YEAR=2012
+}
+
+@ARTICLE{huang13,
+AUTHOR="Jing Huang and Cun-Hong Pan and Cui-Ping Kuang and Jian Zeng and Gang Zheng",
+TITLE="{Experimental Hydrodynamic Study of the Qiantang River Tidal Bore}",
+JOURNAL="Journal of Hydrodynamics",
+VOLUME=25,
+NUMBER=3,
+PAGES="481-490",
+YEAR=2013
+}
+
+@ARTICLE{huang13b,
+AUTHOR="Jing Huang and Cun-Hong Pan and Cui-Ping Kuang and Jian Zeng",
+TITLE="{Experimental Hydrodynamic Study of the Qiantang River Tidal Bore}",
+JOURNAL="Journal of Hydrodynamics",
+VOLUME=25,
+NUMBER=3,
+PAGES="481-490",
+YEAR=2013
+}
+
+@TECHREPORT{hudson99,
+AUTHOR="Justin Hudson",
+TITLE="{Numerical Techniques for the Shallow Water Equations}",
+INSTITUTION="University of Reading",
+YEAR=1999
+}
+
+@ARTICLE{hughes52,
+AUTHOR="Lawrence A. Hughes",
+TITLE="{On the Low-Level Wind Structure of Tropical Storms}",
+JOURNAL="Journal of Meteorology",
+VOLUME="9",
+YEAR="1952"
+}
+
+@BOOK{hughes99,
+TITLE="{Fluid Dynamics (Schaum's Outline)}",
+AUTHOR="William F. Hughes and John A. Brighton",
+PUBLISHER="New York: McGraw-Hill",
+EDITION=3,
+YEAR=1990
+}
+
+@ARTICLE{huthnance84,
+TITLE="{Slope Currents and ``JEBAR''}",
+AUTHOR="J.M. Huthnance",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=14,
+PAGES="795-810",
+YEAR=1984
+}
+
+@ARTICLE{huthnance92,
+AUTHOR="J.M. Huthnance",
+TITLE="{Extensive Slope Currents and the Ocean-Shelf Boundary}",
+JOURNAL="Progress in Oceanography",
+VOLUME=29,
+PAGES="161-196",
+YEAR=1992
+}
+
+@MISC{ice14,
+AUTHOR="{National Snow and Ice Data Centre}",
+TITLE="{All About Sea Ice. Thermodynamics: Albedo}",
+HOWPUBLISHED="[Online] Available from: \url{http://nsidc.org/cryosphere/seaice/processes/albedo.html} [Accessed 30/11/14]",
+YEAR="2014"
+}
+
+@ARTICLE{ionescu07,
+AUTHOR="Delia Ionescu-Kruse",
+TITLE="{Variational Derivation of the Camassa-Holm Shallow Water Equation}",
+JOURNAL="Journal of Nonlinear Mathematical Physics",
+VOLUME=14,
+NUMBER=3,
+PAGES="311-320",
+YEAR=2007
+}
+
+@BOOK{isemer87,
+AUTHOR="Hans-J{{\"o}}rg Isemer and Lutz Hasse",
+TITLE="{The Bunker Climate Atlas of the North Atlantic Ocean, Volume 2: Air-Sea Interactions}",
+PUBLISHER="Berlin: Springer-Verlag",
+YEAR=1987
+}
+
+@ARTICLE{israwi10,
+AUTHOR="Samer Israwi",
+TITLE="{Large Time Existence for 1D Green-Naghdi Equations}",
+JOURNAL="Nonlinear Analysis",
+VOLUME=74,
+PAGES="81-93",
+YEAR=2010
+}
+
+@ARTICLE{israwi14,
+AUTHOR="Samer Israwi and Ayman Mourad",
+TITLE="{An Explicit Solution with Correctors for the Green-Naghdi Equations}",
+JOURNAL="Mediterranean Journal of Mathematics",
+VOLUME=11,
+PAGES="519-532",
+YEAR=2014
+}
+
+@MISC{jakeman06,
+AUTHOR="John Jakeman",
+TITLE="{On Numerical Solutions of the Shallow Water Wave Equations}",
+HOWPUBLISHED="BSc. Thesis",
+SCHOOL="Australian National University",
+YEAR=2006
+}
+
+@ARTICLE{janjic93,
+AUTHOR="Zavi\u{s}a I. Janj\'{i}c",
+TITLE="{The Step-Mountain Eta Coordinate Model: Further Developments of the Convection, Viscous Sublayer, and Turbulence Closure Schemes}",
+journal="Monthly Weather Review",
+VOLUME="122",
+YEAR="1993"
+}
+
+@ARTICLE{janssen89,
+AUTHOR="Peter A.E.M Janssen",
+TITLE="{Wave-Induced Stress and the Drag of Air Flow over Sea Waves}",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=19,
+PAGES="745-754",
+YEAR=1989
+}
+
+@ARTICLE{janssen91,
+AUTHOR="Peter A.E.M Janssen",
+TITLE="{Quasi-Linear Theory of Wind-Wave Generation Applied to Wave Forecasting}",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=21,
+PAGES="1631-1642",
+YEAR=1991
+}
+
+@ARTICLE{jeffreys16,
+TITLE="{Causes Contributory to the Annual Variation of Latitude}",
+AUTHOR="H. Jeffreys",
+JOURNAL="Monthly Notices of the Royal Astronomical Society",
+VOLUME=76,
+PAGES="499-525",
+YEAR=1916
+}
+
+@ARTICLE{jensen98,
+AUTHOR="Tommy G. Jensen",
+TITLE="{Open Boundary Conditions in Stratified Ocean Models}",
+JOURNAL="Journal of Marine Systems",
+VOLUME=16,
+PAGES="297-322",
+YEAR=1998
+}
+
+@ARTICLE{ji91,
+AUTHOR="Zhen-Gang Ji and Ji-Ping Chao",
+TITLE="{An Analytical Coupled Air-Sea Interaction Model}",
+JOURNAL="Journal of Marine Systems",
+VOLUME=1,
+PAGES="263-270",
+YEAR=1991
+}
+
+@ARTICLE{jimenez11,
+AUTHOR="Pedro A. Jim\'{e}nez and Jimy Dudhia and J. Fidel Gonz\'{a}lez-Rouco and Jorge Navarro and Juan P. Mont\'{a}vez and Elena Garc\'{i}a-Bustamente",
+TITLE="{A Revised Scheme for the WRF Surface Layer Formulation}",
+JOURNAL="Monthly Weather Review",
+VOLUME="140",
+YEAR="2011"
+}
+
+@ARTICLE{johnsen91,
+AUTHOR="Matthias Johnsen and Keith D. Paulsen and Fransisco E. Werner",
+TITLE="{Radiation Boundary Conditions for Finite Element Solutions of Generalized Wave Equations}",
+JOURNAL="International Journal for Numerical Methods in Fluids",
+VOLUME=12,
+PAGES="765-783",
+YEAR=1991
+}
+
+@ARTICLE{jordan52,
+AUTHOR="Elizabeth S. Jordan",
+TITLE="{An Observational Study of the Upper Wind-Circulation Around Tropical Storms}",
+JOURNAL="Journal of Meteorology",
+VOLUME="9",
+YEAR="1952"
+}
+
+@ARTICLE{kain93,
+AUTHOR="John S. Kain and J. Michael Fritsch",
+TITLE="{Convective Parameterization for Mesoscale Models: The Kain-Fritsch Scheme}",
+JOURNAL="Meteorological Monographs",
+VOLUME="24",
+NUMBER="46",
+CHAPTER="16",
+YEAR="1993"
+}
+
+@INCOLLECTION{kalogirou15,
+AUTHOR="Anna Kalogirou and Onno Bokhove",
+TITLE="{Variational Water Wave Modelling: From Continuum to Experiment}",
+BOOKTITLE="{Lectures on the Theory of Water Waves}",
+YEAR=2015,
+SERIES="London Mathematical Society Lecture Notes",
+EDITOR="Thomas J. Bridges and Mark D. Groves and David P. Nicholls",
+PUBLISHER="Cambridge: University Press"
+}
+
+@MISC{kelmanson14,
+AUTHOR="Mark Kelmanson",
+TITLE="{MATH3474} Numerical Methods, Lecture Notes",
+HOWPUBLISHED="[online]. [Accessed 25/01/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2014
+}
+
+@TECHREPORT{keulegan58,
+TITLE="{The Motion of Saline Fronts in Still Water}",
+AUTHOR="Garbis H. Keulegan",
+INSTITUTION="National Bureau of Standards",
+NUMBER=5813,
+YEAR=1958
+}
+
+@ARTICLE{khelif05,
+AUTHOR="Djamal Khelif and Carl A. Friehe and Haflidi Jonsson and Qing Wang and Konstantinos Rados",
+TITLE="{Wintertime Boundary-Layer Structure and Air-Sea Interaction over the Japan/East Sea}",
+JOURNAL="Deep-Sea Research",
+VOLUME="II",
+NUMBER=52,
+PAGES="1525-1546",
+YEAR=2005
+}
+
+@ARTICLE{killworth97,
+TITLE="{The Speed of Observed and Theoretical Long Extratropical Waves}",
+AUTHOR="Peter D. Killworth and Dudley B. Chelton and Roland A. {de Szoeke}",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=27,
+PAGES="1946-1966",
+YEAR=1997
+}
+
+@ARTICLE{killworth99,
+TITLE="{The Effect of Bottom Topography on the Speed of Long Extratropical Planetary Waves}",
+AUTHOR="Peter D. Killworth and Jeffrey R. Blundell",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=29,
+YEAR=1999
+}
+
+@ARTICLE{kim01,
+AUTHOR="Jang Whan Kim and R. Cengiz Ertekin and William Webster",
+TITLE="{A Derivation of the Green-Naghdi Equations for Irrotational Flows}",
+JOURNAL="Journal of Engineering Mathematics",
+VOLUME=40,
+PAGES="17-42",
+YEAR=2001
+}
+
+@ARTICLE{kjerfve93,
+AUTHOR="Bj{\"o}rn Kjerfve and H\'{e}lder O. Ferreira",
+TITLE="{Tidal Bores: First Ever Measurements}",
+JOURNAL="Ci\'{e}ncia e Cultura (Journal of the Brazilian Association for the Advancement of Science)",
+VOLUME=45,
+NUMBER=2,
+PAGES="135-138",
+YEAR=1993
+}
+
+@ARTICLE{klyatskin98,
+TITLE="{Propagation and Localization of Rossby Waves over Random Topography (Two-Layer Model)}",
+AUTHOR="V.I. Klyatskin and N.V. Gryanik and D. Gurarie",
+JOURNAL="Wave Motion",
+VOLUME=28,
+PAGES="333-352",
+YEAR=1998
+}
+
+@TECHREPORT{knabb05a,
+author="Richard D. Knabb and Jamie R. Rhome and Daniel P. Brown",
+title="{Tropical Cyclone Report - Hurricane Katrina}",
+institution="National Hurricane Center",
+year="2005",
+month="December",
+note="\url{http://www.nhc.noaa.gov/pdf/TCR-AL122005_Katrina.pdf} [Accessed 4/11/14]"
+}
+
+@TECHREPORT{knabb05b,
+author="Richard D. Knabb",
+title="{Tropical Depression Twelve, Discussion Number 2 [11 PM EDT TUE AUG 23 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.002.shtml} [accessed 6/11/14]"
+}
+
+@techreport{knabb05c,
+author="Richard Knabb",
+title="{Tropical Storm Katrina, Discussion Number 11 [5 AM EDT FRI AUG 26 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.011.shtml} [accessed 6/11/14]"
+}
+
+@techreport{knabb05d,
+author="Richard Knabb",
+title="{Tropical Storm Katrina, Discussion Number 16 [5 AM EDT SAT AUG 27 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.016.shtml} [accessed 6/11/14]"
+}
+
+@ARTICLE{koch09,
+AUTHOR="Christian Kock and Hubert Chanson",
+TITLE="{Turbulence Measurements in Positive Surges and Bores}",
+JOURNAL="Journal of Hydraulic Research",
+VOLUME=47,
+NUMBER=1,
+PAGES="29-40",
+YEAR=2009
+}
+
+@ARTICLE{kodama07,
+AUTHOR="T. Kodama and M. Kawahara",
+TITLE="{Finite Element Method for Two-Layer Tidal Current Analysis with an Open Boundary Condition}",
+JOURNAL="International Journal of Computational Fluid Dynamics",
+VOLUME=3,
+NUMBER=1,
+PAGES="19-51",
+YEAR=2007
+}
+
+@ARTICLE{kodama91,
+AUTHOR="Toshio Kodama and Tomoyuki Kawasaki and Mutsoto Kawahara",
+TITLE="{Finite Element Method for Shallow Water Equation including Open Boundary Condition}",
+JOURNAL="International Journal for Numerical Methods in Fluids",
+VOLUME=13,
+PAGES="939-953",
+YEAR=1991
+}
+
+@ARTICLE{kodama92,
+AUTHOR="Toshio Kodama and Mutsuto Kawahara",
+TITLE="{Multiple Level Finite Element Analysis for Tidal Current Flow with Non-Reflective Open Boundary Condition}",
+JOURNAL="Structural Engineering/Earthquake Engineering",
+VOLUME=9,
+NUMBER=1,
+PAGES="77s-87s",
+YEAR=1992
+}
+
+@ARTICLE{kowalik94,
+AUTHOR="Zygmunt Kowalik",
+TITLE="{Modelling of Topographically Amplified Diurnal Tides in the Nordic Seas}",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=24,
+PAGES="1717-1731",
+YEAR=1994
+}
+
+@ARTICLE{kristina14,
+AUTHOR="W. Kristina and O. Bokhove and E. {van Groesen}",
+TITLE="{Effective Coastal Boundary Conditions for Tsunami Wave Run-Up over Sloping Bathymetry}",
+JOURNAL="Nonlinear Processes in Geophysics",
+VOLUME=21,
+PAGES="987-1005",
+YEAR=2014
+}
+
+@ARTICLE{lai11,
+AUTHOR="W. Lai and A.A. Khan",
+TITLE="{A Discontinuous Galerkin Method for Two-Dimensional Shock Wave Modeling}",
+JOURNAL="Modelling and Simulation in Engineering",
+VOLUME=2011,
+PAGES="1-10",
+YEAR=2011
+}
+
+@BOOK{lamb16,
+AUTHOR="Horace Lamb",
+TITLE="Hydrodynamics",
+PUBLISHER="Cambridge: University Press",
+YEAR=1916
+}
+
+@BOOK{lamb91,
+TITLE="{Historic Storms of the North Sea, British Isles and Northwest Europe}",
+AUTHOR="Hubert Lamb",
+PUBLISHER="Cambridge: University Press",
+YEAR=1991
+}
+
+@BOOK{leblond78,
+TITLE="{Waves in the Ocean}",
+AUTHOR="Paul H. LeBlond and Lawrence A. Mysak",
+PUBLISHER="Norwich: Elsevier",
+YEAR=1978
+}
+
+@MISC{lefevre03,
+AUTHOR="Jean-Michel Lef\`{e}vre",
+TITLE="{Waves in Shallow Water}",
+HOWPUBLISHED="Presentation: Wind Wave and Storm Surge Workshop - Halifax",
+YEAR=2003
+}
+
+@ARTICLE{leng15,
+AUTHOR="Xinqian Leng and Hubert Chanson",
+TITLE="{Breaking Bore: Physical Observations of Roller Characteristics}",
+JOURNAL="Mechanics Research Communications",
+VOLUME=65,
+PAGES="24-29",
+YEAR=2015
+}
+
+@masterthesis{demirel09,
+AUTHOR="{\"O}mer Demirel",
+TITLE="{Parallelisation of a Discontinuous Galerkin Solver for the Shallow Water Equation}",
+SCHOOL="Technische Universit{\"a}t M{\"u}nchen, Fakult{\"a}t f{\"u}r Informatik",
+YEAR=2009
+}
+
+@inproceedings{li10,
+AUTHOR="Jing Li and Hua-xing Liu and Soon Keat Tan",
+TITLE="{Lagrangian Modeling of Tidal Bores Passing Through Bridge Piers}",
+BOOKTITLE="9th International Conference on Hydrodynamics",
+VOLUME=22,
+NUMBER=5,
+PAGES="Supplement: 513-519",
+YEAR=2010
+}
+
+@ARTICLE{light98,
+AUTHOR="B. Light and H. Eickcn and G. A. Maykut and T. C. Grenfell",
+TITLE="The effect of included particulates on the spectral albedo of sea ice",
+JOURNAL="Journal of Geophysical Research",
+VOLUME="103",
+NUMBER="C12",
+YEAR="1998"
+}
+
+@masterthesis{demirel09,
+AUTHOR="{\"O}mer Demirel",
+TITLE="{Parallelisation of a Discontinuous Galerkin Solver for the Shallow Water Equation}",
+SCHOOL="Technische Universit{\"a}t M{\"u}nchen, Fakult{\"a}t f{\"u}r Informatik",
+YEAR=2009
+}
+
+@BOOK{lighthill78,
+TITLE="{Waves in Fluids}",
+AUTHOR="James Lighthill",
+PUBLISHER="Cambridge: University Press",
+YEAR=1978
+}
+
+@ARTICLE{lipps64,
+AUTHOR="Frank B. Lipps",
+TITLE="{A Note on the Beta-Plane Approximation}",
+JOURNAL="Tellus",
+VOLUME=16,
+NUMBER=4,
+PAGES="535-537",
+YEAR=1964
+}
+
+@ARTICLE{liu04,
+AUTHOR="Minnan Liu and Nallamuthu Rajaratnam and David Z. Zhu",
+TITLE="{Turbulence Structure of Hydraulic Jumps of Low Froude Numbers}",
+JOURNAL="Journal of Hydraulic Engineering",
+VOLUME=130,
+PAGES="511-520",
+YEAR=2004
+}
+
+@ARTICLE{longuet64,
+TITLE="{Planetary Waves on a Rotating Sphere}",
+AUTHOR="M.S. Longuet-Higgins",
+JOURNAL="Proceedings of the Royal Society A",
+VOLUME=471,
+NUMBER=2176,
+PAGES="446-473"
+}
+
+@ARTICLE{love94,
+AUTHOR="A.E.H. Love",
+TITLE="{On the Motion of Paired Vortices with a Common Axis}",
+JOURNAL="Proceedings of the London Mathematical Society",
+VOLUME="s1-25",
+NUMBER=1,
+PAGES="185-194",
+YEAR=1894
+}
+
+@ARTICLE{lubin10,
+AUTHOR="Pierre Lubin and St\'{e}phane Glockner and Hubert Chanson",
+TITLE="{Numerical Simulation of a Weak Breaking Tidal Bore}",
+JOURNAL="Mechanics Research Communications",
+VOLUME=37,
+PAGES="119-121",
+YEAR=2010
+}
+
+@BOOK{lucquin98,
+AUTHOR="Brigitte Lucquin and Olivier Pironneau",
+TITLE="{Introduction to Scientific Computing}",
+PUBLISHER="Midsomer Norton: John Wiley and Sons",
+YEAR=1998
+}
+
+@ARTICLE{madsen05,
+AUTHOR="P.A. Madsen and H.J. Simonsen and Cun-Hong Pan",
+TITLE="{Numerical Simulation of Tidal Bores and Hydraulic Jumps}",
+JOURNAL="Coastal Engineering",
+VOLUME=52,
+PAGES="409-433",
+YEAR=2005
+}
+
+@ARTICLE{madsen06,
+AUTHOR="Per A. Madsen and David R. Fuhrman and Benlong Wang",
+TITLE="{A Boussinesq-Type Method for Fully Nonlinear Waves Interacting with a Rapidly Varying Bathymetry}",
+JOURNAL="Coastal Engineering",
+VOLUME=53,
+PAGES="487-504",
+YEAR=2006
+}
+
+@inproceedings{marche11,
+AUTHOR="Fabien Marche and Philippe Bonneton and Marion Tissier and David Lannes and Florent Chazel",
+TITLE="{Optimized Green-Naghdi Equations for the Modelling
+of Waves Nearshore Transformations}",
+BOOKTITLE="{The Twenty-first International Offshore and Polar Engineering Conference}",
+YEAR=2011
+}
+
+@BOOK{marchuk89,
+TITLE="{Dynamics of Ocean Tides}",
+AUTHOR="Guri\'{l} Ivanovich Marchuk and Boris Abramovich Kagen",
+PUBLISHER="Dordrecht: Kulwer Academic Publishers",
+YEAR="1989",
+SERIES="Oceanographic Sciences Library"
+}
+
+@ARTICLE{marino05,
+TITLE="The Front Condition for Gravity Currents",
+AUTHOR="B. M. Marino and L. P. Thomas and P. F. Linden",
+JOURNAL="Journal of Fluid Mechanics",
+VOLUME=536,
+YEAR=2005
+}
+
+@ARTICLE{marks13,
+AUTHOR="A. A. Marks and M. D. King",
+TITLE="The effects of additional black carbon on the albedo of Arctic sea ice: variation with sea ice type and snow cover",
+JOURNAL="The Cryosphere",
+NUMBER="7",
+year="2013"
+}
+
+@BOOK{melchior78,
+AUTHOR="Paul Melchior",
+TITLE="{The Tides of the Planet Earth}",
+YEAR=1978,
+PUBLISHER="Oxford: Pergamon Press"
+}
+
+@ARTICLE{mesinger84,
+AUTHOR="Fedor Mesinger",
+TITLE="{A Blocking Technique for Representation of Mountains in Atmospheric Models}",
+JOURNAL="Rivista di Meteorologia Aeronautica",
+VOLUME="44",
+NUMBER="1-4",
+YEAR="1984"
+}
+
+@ARTICLE{metayer10,
+AUTHOR="O. {Le M\'{e}tayer} and S. Gavrilyuk and S. Hank",
+TITLE="{A Numerical Scheme for the Green-Naghdi Model}",
+JOURNAL="Journal of Computational Physics",
+VOLUME=229,
+PAGES="2034-2045",
+YEAR="2010"
+}
+
+@ARTICLE{miles85,
+AUTHOR="John Miles and Rick Salmon",
+TITLE="{Weakly Dispersive Nonlinear Gravity Waves}",
+JOURNAL="Journal of Fluid Mechanics",
+VOLUME=157,
+PAGES="519-531",
+YEAR=1985
+}
+
+@ARTICLE{mitsudera90,
+TITLE="{Resonant Forcing of Coastally Trapped Waves in a Continuously Stratified Ocean}",
+AUTHOR="H. Mitsudera and R. Grimshaw",
+JOURNAL="Pure and Applied Geophysics",
+VOLUME=133,
+NUMBER=4,
+PAGES="635-664",
+YEAR=1990
+}
+
+@article{mlawer97,
+author = "Eli J. Mlawer and Steven J. Taubman and Patrick D. Brown and Michael J. Iacono and Shepard A. Clough",
+title = "{Radiative transfer for inhomogeneous atmospheres: RRTM, a validated correlated-k model for the longwave}",
+journal = "{Journal of Geophysical Research: Atmospheres}",
+volume = "{102}",
+number = "{D14}",
+year = "{1997}",
+}
+
+@BOOK{morris12,
+TITLE="{Cruising Anglesey and Adjoining Waters, from Liverpool to Porthmadog}",
+AUTHOR="Ralph Morris",
+PUBLISHER="St Ives: Imray",
+YEAR=2012
+}
+
+@ARTICLE{morrison08,
+title="Impact of cloud microphysics on the development of trailing stratiform precipitation in a simulated squall line: Comparison of one- and two-moment schemes",
+author="Hugh Morrison and Gregory Thompson and Valerian Tatarskii",
+JOURNAL="Physical Meteorology MPO",
+volume="531",
+year="2008"
+}
+
+@ARTICLE{murzyn09,
+AUTHOR="F. Murzyn and H. Chanson",
+TITLE="{Two-Phase Flow Measurements in Turbulent Hydraulic Jumps}",
+JOURNAL="Chemical Engineering Research and Design",
+VOLUME=87,
+PAGES="789-797",
+YEAR=2009
+}
+
+@MISC{musgrave09,
+TITLE="{Point Vortex Dynamics in Two Dimensions}",
+AUTHOR="Ruth Musgrave and Mostafa Moghaddami and Victor Avsarkisof and Ruoqian Wang and Wei Zhu",
+YEAR=2009,
+EDITOR="Keith Moffatt",
+ORGANIZATION="National University of Singapore",
+NOTE="Report, online [available at \url{http://www2.ims.nus.edu.sg/Programs/09fluidss/files/Report_GroupB.pdf} (accessed 5/5/15)]"
+}
+
+@ARTICLE{mysak80,
+TITLE="{Topographically Trapped Waves}",
+AUTHOR="Lawrence A. Mysak",
+JOURNAL="Annual Review of Fluid Mechanics",
+VOLUME=12,
+PAGES="45-76",
+YEAR=1980
+}
+
+@BOOK{neumann66,
+TITLE="{Principles of Physical Oceanography}",
+AUTHOR="Gerhard Neumann and Willard J. {Pierson Jr.}",
+PUBLISHER="Englewood Cliffs, N.J.: Prentice-Hall",
+YEAR=1966
+}
+
+@INBOOK{newton01,
+AUTHOR="Paul K. Newton",
+TITLE="{The N-Vortex Problem: Analytical Techniques}",
+BOOKTITLE="{Applied Mathematical Sciences}",
+NUMBER=145,
+EDITOR="Jerrold E. Marsden and Lawrence Sirovich",
+YEAR=2001,
+PUBLISHER="New York: Springer-Verlag"
+}
+
+@ARTICLE{nikmehr10,
+AUTHOR="Saman Nikmehr and Ali Tabebordbar",
+TITLE="{Hydraulic Jumps on Adverse Slope in Two Cases of Rough and Smooth Bed}",
+JOURNAL="Research Journal of Applied Sciences, Enginerring and Technology",
+VOLUME=2,
+NUMBER=1,
+YEAR=2010
+}
+
+@BOOK{nrc91,
+  author    = "{National Research Council}",
+  title     = "{Rethinking the Ozone Problem in Urban and Regional Air Pollution}",
+  year      = 1991,
+  publisher = "Washington: The National Academies Press"
+}
+
+@MISC{nurijanyan12,
+AUTHOR="S. Nurijanyan and O. Bokhove and L.R.M. Maas",
+TITLE="{Inertial Waves in a Rectangular Parallelepiped}",
+HOWPUBLISHED="Memorandum 1998 - Department of Applied Mathematics, University of Twente",
+YEAR=2012
+}
+
+@PHDTHESIS{nurijanyan13,
+AUTHOR="Shavarsh Nurijanyan",
+TITLE="{Discrete and Continuous Hamiltonian Systems for Wave Modelling}",
+SCHOOL="University of Twente",
+YEAR=2013
+}
+
+@BOOK{oed,
+KEY="OED",
+TITLE="Oxford English Dictionary [Online]",
+YEAR=2014,
+PUBLISHER="s.v. Strait",
+NOTE="Available at \url{http://oed.com} [Accessed 19/1/15]"
+}
+
+@ARTICLE{ohtsu01,
+AUTHOR="Iwao Ohtsu and Youichi Yasuda and Hiroshi Gotoh",
+TITLE="{Hydraulic Condition for Undular-Jump Formations}",
+JOURNAL="Journal of Hydraulic Research",
+VOLUME=39,
+NUMBER=2,
+PAGES="203-209",
+YEAR=2001
+}
+
+@MISC{owen15,
+AUTHOR="Alex Owen",
+TITLE="{Variational and Hamiltonian Geophysical Fluid Dynamics}",
+HOWPUBLISHED="Term Paper - MATH5458 Geophysical Fluid Dynamics",
+YEAR=2015
+}
+
+@ARTICLE{owen80,
+AUTHOR="A. Owen",
+TITLE="{A Three-Dimensional Model of the Bristol Channel}",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=10,
+PAGES="1290-1302",
+YEAR=1980
+}
+
+@inproceedings{pan03,
+AUTHOR="Cun-Hong Pan and Bingyao Lin and Xianzhong Mao",
+TITLE="{New Development in Numerical Simulation of the Tidal Bore}",
+BOOKTITLE="{International Conference on Estuaries and Coasts 2003}",
+PAGES="99-111",
+YEAR=2003
+}
+
+@ARTICLE{pan03b,
+AUTHOR="W.H. Hui and Cun-Hong Pan",
+TITLE="{Water Level-Bottom Topography Formulation for the Shallow-Water Flow with Application to the Tidal Bores on the Qiantang River}",
+JOURNAL="Computational Fluid Dynamics Journal",
+VOLUME=12,
+NUMBER=3,
+PAGES="549-554",
+YEAR=2003
+}
+
+@ARTICLE{pan10,
+AUTHOR="Cun-Hong Pan and Hai-Yan Lu",
+TITLE="{2D Numerical Simulation of Tidal Bore on Qiantang River Using KFVS Scheme}",
+JOURNAL="Coastal Engineering",
+PAGES="1-13",
+YEAR=2010
+}
+
+@ARTICLE{panda14,
+AUTHOR="Nishant Panda and Clint Dawson and Yao Zhang and Andrew B. Kennedy and Joannes J. Westering and Aaron S. Donahue",
+TITLE="{Discontinuous Galerkin Methods for Solving Boussinesq-Green-Naghdi Equations in Resolving Non-Linear and Dispersive Surface Water Waves}",
+JOURNAL="Journal of Computational Physics",
+VOLUME=273,
+PAGES="572-588",
+YEAR=2014
+}
+
+@ARTICLE{panikkar71,
+AUTHOR="N.K. Panikkar and T.M. Srinivasan",
+TITLE="{The Concept of Tides in Ancient India}",
+JOURNAL="Indian Journal of History of Science",
+VOLUME="6",
+PAGES="36-50",
+YEAR="1971"
+}
+
+@MISC{parker15,
+AUTHOR="Doug Parker and Andrew Ross and Julienne Schwendike",
+TITLE="{SOEE3151} Dynamics of Weather Systems, Lecture Notes",
+HOWPUBLISHED="[online]. [Accessed 14/03/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2015
+}
+
+@BOOK{paterson83,
+TITLE="{A First Course in Fluid Dynamics}",
+AUTHOR="A.R. Paterson",
+PUBLISHER="Cambridge: University Press",
+YEAR=1983
+}
+
+@BOOK{pedlosky87,
+TITLE="{Geophysical Fluid Dynamics}",
+AUTHOR="Joseph Pedlosky",
+PUBLISHER="New York: Springer-Verlag",
+YEAR=1987
+}
+
+@ARTICLE{persson04,
+TITLE="{A Simple Mesh Generator in MATLAB}",
+AUTHOR="Per-Olof Persson and Gilbert Strang",
+JOURNAL="SIAM Review",
+VOLUME=46,
+NUMBER=2,
+PAGES="329-345",
+YEAR=2004
+}
+
+@BOOK{petrila05,
+TITLE="{Basics of Fluid Mechanics and Introduction to Computational Fluid Dynamics}",
+AUTHOR="Titus Petrila and Damian Trif",
+PUBLISHER="Boston: Springer",
+YEAR=2005
+}
+
+@ARTICLE{pfister12,
+AUTHOR="Michael Pfister and Hubert Chanson and Valentin Heller",
+TITLE="{Scale Effects in Physical Hydraulic Engineering Models}",
+JOURNAL="Journal of Hydraulic Research",
+VOLUME=50,
+NUMBER=2,
+PAGES="244-246",
+YEAR=2012
+}
+
+@ARTICLE{philander84,
+AUTHOR="S.G.H. Philander and T. Yamagata and R.C. Pacanowski",
+TITLE="{Unstable Air-Sea Interactions in the Tropics}",
+JOURNAL="Journal of the Atmospheric Sciences",
+VOLUME=41,
+NUMBER=4,
+PAGES="604-613",
+YEAR=1984
+}
+
+@ARTICLE{phillips63,
+AUTHOR="Norman A. Phillips",
+TITLE="{Geostrophic Motion}",
+JOURNAL="Reviews of Geophysics",
+VOLUME=1,
+NUMBER=2,
+PAGES="123-176",
+YEAR=1963
+}
+
+@BOOK{phillips66,
+AUTHOR="O.M. Phillips",
+TITLE="{The Dynamics of the Upper Ocean}",
+PUBLISHER="Cambridge: University Press",
+EDITION=2,
+YEAR=1966
+}
+
+@ARTICLE{pingree81,
+AUTHOR="R.D. Pingree and D.K. Griffiths",
+TITLE="S2 Tidal Simulations on the North-West European Shelf",
+JOURNAL="Journal of the U.K Marine Biological Association",
+VOLUME=61,
+PAGES="609-616",
+YEAR=1981
+}
+
+@book{pond03,
+AUTHOR="Stephen Pond and George L. Pickard",
+TITLE="{Introductory Dynamic Oceanography}",
+PUBLISHER="Oxford: Butterworth-Heinemann",
+EDITION=3,
+YEAR=2003
+}
+
+@ARTICLE{powell10,
+AUTHOR="Mark D. Powell and Shirley Murillo and Peter Dodge and Eric Uhlhorn and John Gamache and Vince Cardone and Andrew Cox and Sonia Otero and Nick Carrasco and Bachir Annane and Russell St. Fleur",
+TITLE="{Reconstruction of Hurricane Katrina's wind fields for storm surge and wave hindcasting}",
+JOURNAL="Ocean Engineering",
+VOLUME="37",
+YEAR="2010"
+}
+
+@ARTICLE{prandle93,
+TITLE="{Year-Long Measurements of Flow through the Dover Strait by H.F. Radar and Acoustic Doppler Current Profilers (ADCP)}",
+AUTHOR="David Prandle",
+JOURNAL="Oceanologica Acta",
+VOLUME=16,
+NUMBER="5-6",
+PAGES="457-468",
+YEAR=1993
+}
+
+@ARTICLE{proctor89,
+AUTHOR="R. Proctor and R.A. Flather",
+TITLE="{Storm Surge Prediction in the Bristol Channel - the Floods of 13 December 1981}",
+JOURNAL="Continental Shelf Research",
+VOLUME=9,
+NUMBER=10,
+PAGES="889-918",
+YEAR=1989
+}
+
+@ARTICLE{proudman24,
+AUTHOR="J. Proudman and A.T. Doodson",
+TITLE="{The Principal Constituent of the Tides of the North Sea}",
+JOURNAL="{Philosophical Transactions of the Royal Society of London. Series A, Containing Papers of a Mathematical or Physical Character}",
+VOLUME=224,
+PAGES="185-219",
+YEAR=1924
+}
+
+@BOOK{pryce93,
+TITLE="{Numerical Solution of Sturm-Liouville Problems}",
+AUTHOR="John D. Pryce",
+PUBLISHER="Oxford: Clarendon Press",
+YEAR=1993
+}
+
+@INCOLLECTION{rabinovich09,
+TITLE="{Seiches and Harbor Oscillations}",
+AUTHOR="Alexander B. Rabinovich",
+BOOKTITLE="{Handbook of Coastal and Ocean Engineering}",
+CHAPTER=9,
+EDITOR="Y.C. Kim",
+PUBLISHER="Singapore: World Scientific Publications",
+YEAR=2009
+}
+
+@ARTICLE{rayleigh92,
+AUTHOR="J.W.S. Rayleigh",
+TITLE="{On the Question of the Stability of the Flow of Liquids}",
+JOURNAL="Philosophical Magazine",
+VOLUME=34,
+PAGES="59-70",
+YEAR=1892
+}
+
+@ARTICLE{raymond84,
+AUTHOR="William H. Raymond and H.L. Kuo",
+TITLE="{A Radiation Boundary Condition for Multi-Dimensional Flows}",
+JOURNAL="Quarterly Journal of the Royal Meteorological Society",
+VOLUME=110,
+PAGES="535-551",
+YEAR=1984
+}
+
+@ARTICLE{regener57,
+AUTHOR="V.H. Regener",
+TITLE="{The Vertical Flux of Atmospheric Ozone}",
+JOURNAL="Journal of Geophysics Research",
+VOLUME=62,
+PAGES="221-228",
+YEAR=1957
+}
+
+@ARTICLE{riehl50,
+   author = {Herbert Riehl},
+    title = "{A Model of Hurricane Formation}",
+  journal = {Journal of Applied Physics},
+     year = 1950,
+    month = sep,
+   volume = 21,
+}
+
+@manual{rip4,
+	title={A User's Guide to RIP Version 4: A Program for Visualising Mesoscale Model Output},
+author={Mark T. Stoelinga},
+ORGANIZATION={University of Washington},
+year={2006},
+url={https://www.mmm.ucar.edu/mm5/documents/ripug_V4.html}
+}
+
+@ARTICLE{robinson64,
+AUTHOR="A.R. Robinson",
+TITLE="{Continental Shelf Waves and the Response of Sea Level to Weather Systems}",
+JOURNAL="Journal of Geophysics Research",
+VOLUME=69,
+NUMBER=2,
+PAGES="367-368",
+YEAR=1964
+}
+
+@ARTICLE{roeber10,
+AUTHOR="Volker Roeber and Kwok Fai Cheung and Marcelo H. Kobayashi",
+TITLE="{Shock Capturing Boussinesq-Type Model for Nearshore Wave Processes}",
+JOURNAL="Coastal Engineering",
+VOLUME=57,
+PAGES="407-423",
+YEAR=2010
+}
+
+@ARTICLE{rossby39,
+AUTHOR="C.-G. Rossby and Collaborators",
+TITLE="{Relation Between Variations in the Intensity of the Zonal Circulation of the Atmosphere and the Displacements of the Semi-Permanent Centers of Action}",
+JOURNAL="Journal of Marine Research",
+VOLUME=2,
+PAGES="38-55",
+YEAR=1939
+}
+
+@book{routh77,
+  title={A Treatise on the Stability of a Given State of Motion: Particularly Steady Motion},
+  author={Edward J. Routh},
+  year={1877},
+  publisher={London: Macmillan and Company}
+}
+
+@BOOK{ruban14,
+TITLE="{Classical Fluid Dynamics}",
+AUTHOR="Anatoly I. Ruban and Jitesh S.B. Gajjar",
+PUBLISHER="New York: Oxford University Press",
+YEAR=2014
+}
+
+@INCOLLECTION{rummel93,
+TITLE="{Principle of Satellite Altimetry and Elimination of Radial Orbit Errors}",
+BOOKTITLE="{Satellite Altimetry in Geodesy and Oceanography}",
+AUTHOR="Reiner Rummel",
+EDITOR="Reiner Rummel and Fernando Sans\'{o} and S. Bhattacharji and G.M. Friedman and H.J. Neugebauer and A. Seilacher",
+SERIES="Lecture Notes in Earth Sciences",
+NUMBER=50,
+PUBLISHER="Berlin Heidelberg: Springer-Verlag",
+YEAR=1993
+}
+
+@BOOK{saffman92,
+TITLE="{Vortex Dynamics}",
+AUTHOR="P.G. Saffman",
+PUBLISHER="Cambridge: University Press",
+YEAR=1992
+}
+
+@ARTICLE{salomon93,
+TITLE="{Computed Residual Flow through the Dover Strait}",
+AUTHOR="Jean-Claude Salomon and Marguerite Breton and Pierre Guegueniat",
+JOURNAL="Oceanologica Acta",
+VOLUME=16,
+NUMBER="5-6",
+PAGES="449-455",
+YEAR=1993
+}
+
+@ARTICLE{sanchez12,
+TITLE="{Spatial and Temporal Variability of Tidal Flow in the Strait of Gibraltar}",
+AUTHOR="A. S{\'{a}}nchez-Rom{\'{a}}n and J. Garc{\'{i}}a-Lafuente and J. Delgado and J.C. S{\'{a}}nchez-Garrido and C. Naranjo",
+JOURNAL="Journal of Marine Systems",
+VOLUME="98-99",
+YEAR=2012,
+PAGES="9-17"
+}
+
+@MISC{sandwell08,
+TITLE="{Exploring the Ocean Basins with Satellite Altimetry}",
+AUTHOR="David T. Sandwell and Walter H. F. Smith",
+HOWPUBLISHED="[online] [accessed 14/5/15] Available at \url{http://www.ngdc.noaa.gov/mgg/bathymetry/predicted/explore.HTML}",
+YEAR=2008
+}
+
+@ARTICLE{sandwell91,
+TITLE="{Geophysical Applications of Satellite Altimetry}",
+AUTHOR="David T. Sandwell",
+JOURNAL="Reviews of Geophysics",
+VOLUME="Supplement",
+PAGES="132-137",
+YEAR=1991
+}
+
+@BOOK{savenije06,
+AUTHOR="H.H.G. Savenije",
+TITLE="{Salinity and Tides in Alluvial Estuaries}",
+PUBLISHER="Amsterdam: Elsevier",
+YEAR=2006
+}
+
+@ARTICLE{schaub07,
+AUTHOR="D. Schaub and D. Brunner and K.F. Boersma and J. Keller and D. Folini and B. Buchmann and H. Berresheim and J. Staehelin",
+TITLE="{SCIAMACHY Tropospheric NO2 over Switzerland: Estimates of NOx Lifetimes and Impact of the Complex Alpine Topography on the Retrieval}",
+JOURNAL="Atmospheric Chemistry and Physics",
+VOLUME=7,
+PAGES="5971-5987",
+YEAR=2007
+}
+
+@BOOK{schlichting79,
+AUTHOR="Hermann Schlichting",
+TITLE="{Boundary-Layer Theory}",
+EDITION=7,
+NOTE="Translated by J. Kestin",
+PUBLISHER="New York: McGraw-Hill",
+YEAR=1979
+}
+
+@MISC{schwendike15,
+AUTHOR="Juliane Schwendike",
+TITLE="{SOEE5680M} Dynamics of Weather Systems, Lecture Notes",
+HOWPUBLISHED="[online]. [Accessed 27/01/15] Available from \url{http://vlebb.leeds.ac.uk}",
+YEAR=2015
+}
+
+@ARTICLE{sentchev99a,
+TITLE="{Tidal Motions in the Dover Strait as a Variational Inverse of the Sea Level and Surface Velocity Data}",
+AUTHOR="Alexei Sentchev and Maxim Yaremchuk",
+JOURNAL="Continental Shelf Research",
+VOLUME=19,
+PAGES="1905-1932",
+YEAR=1999
+}
+
+@ARTICLE{sentchev99b,
+TITLE="{Fitting a Finite Element Tidal Model to Sparse Data: Application to the Straits of Dover}",
+AUTHOR="Alexei Sentchev",
+JOURNAL="Computer Methods in Applied Mechanics and Engineering",
+VOLUME=180,
+PAGES="27-46",
+YEAR=1999
+}
+
+@ARTICLE{seo08,
+AUTHOR="Hyodae Seo and Raghu Murtugudde and Markus Jochum and Arthur J. Miller",
+TITLE="{Modeling of Mesoscale Coupled Ocean-Atmosphere Interaction and its Feedback to Ocean in the Western Arabian Sea}",
+JOURNAL="Ocean Modelling",
+VOLUME=25,
+PAGES="120-131",
+YEAR=2008
+}
+
+@ARTICLE{seo10,
+AUTHOR="Il Won Seo and Chang Geun Song",
+TITLE="{Specification of Wall Boundary Conditions and Transverse Velocity Profile Conditions in Finite Element Modeling}",
+JOURNAL="Journal of Hydrodynamics",
+VOLUME=22,
+NUMBER=5,
+PAGES="633-638 (supplement)",
+YEAR=2010
+}
+
+@ARTICLE{shi03,
+AUTHOR="Z. Shi and S.S. Li and O.S. Petersen",
+TITLE="{A Vertically Moving Grid Finite-Element Modelling of Tidal Flow in the Changjiang Estuary, China}",
+JOURNAL="International Journal for Numerical Methods in Fluids",
+VOLUME=43,
+PAGES="115-127",
+YEAR=2003
+}
+
+@ARTICLE{shi11,
+AUTHOR="John Z. Shi and Hong-Long Zhang",
+TITLE="{Note on a 2DH Finite Element Model of Tidal Flow of the North Passage of the Partially-Mixed Changjiang River Estuary, China}",
+JOURNAL="Journal of Hydro-Environment Research",
+VOLUME=5,
+PAGES="49-62",
+YEAR=2011
+}
+
+@ARTICLE{shin11,
+AUTHOR="Hyeyum Hailey Shin and Song-You Hong",
+TITLE="{Intercompatison of Planetary Boundary-Layer Parametrizations in the WRF Model for a Single Day from CASES-99}",
+JOURNAL="Boundary-Layer Meteorology",
+VOLUME="139",
+YEAR="2011"
+}
+
+@BOOK{shivamoggi97,
+TITLE="{Theoretical Fluid Dynamics}",
+AUTHOR="Bhimsen K. Shivamoggi",
+YEAR=1997,
+PUBLISHER="Toronto: John Wiley \& Sons"
+}
+
+@BOOK{simmons96,
+AUTHOR="George F. Simmons",
+TITLE="{Calculus with Analytic Geometry}",
+EDITION=2,
+PUBLISHER="USA: McGraw-Hill (International Edition)",
+YEAR="1996"
+}
+
+@ARTICLE{simpson04,
+AUTHOR="J.H. Simpson and N.R. Fisher and P. Wiles",
+TITLE="{Reynolds Stress and TKE Production in an Estuary with a Tidal Bore}",
+JOURNAL="Estuarine, Coastal and Shelf Science",
+VOLUME=60,
+PAGES="619-627",
+YEAR=2004
+}
+
+@ARTICLE{simpson71,
+TITLE="{Electromagnetic Observations of Water Flow in the Menai Straits}",
+AUTHOR="J.H. Simpson and A.M.G. Forbes and W.J. Gould",
+JOURNAL="Geophysics Journal, Royal Astronomical Society",
+VOLUME=24,
+PAGES="245-253",
+YEAR=1971
+}
+
+@masterthesis{morrison08,
+AUTHOR="G.M. Morrison",
+TITLE="{Numerical Modelling of Tidal Bores using a Moving Mesh}",
+SCHOOL="University of Reading",
+YEAR=2008
+}
+
+@ARTICLE{sinha97,
+AUTHOR="B. Sinha and R.D. Pingree",
+TITLE="{The Principal Lunar Semidiurnal Tide and its Harmonics: Baseline Solutions for M2 and M4 constituents on the North-West European Continental Shelf}",
+JOURNAL="Continental Shelf Research",
+VOLUME=17,
+NUMBER=11,
+PAGES="1321-1365",
+YEAR=1997
+}
+
+@ARTICLE{small08,
+AUTHOR="R.J. Small and S.P. {deSzoeke} and S.P. Xie and L. O'Neill and H. Seo and Q. Song and P. Cornillon and M. Spall and S. Minobe",
+TITLE="{Air-Sea Interaction over Ocean Fronts and Eddies}",
+JOURNAL="Dynamics of Atmospheres and Oceans",
+VOLUME=45,
+PAGES="274-319",
+YEAR=2008
+}
+
+@ARTICLE{smith15,
+AUTHOR="Dominic Smith",
+TITLE="{River Severn Bore: Watch Surfers Ride Spectacular 'Super Tide' on Britain's Longest River}",
+JOURNAL="The Daily Mirror",
+YEAR=2015,
+MONTH="21 March",
+NOTE="[online] [accessed 25/8/15] Available at \url{http://www.mirror.co.uk/news/uk-news/river-severn-bore-watch-surfers-5374225}"
+}
+
+@BOOK{smith60,
+TITLE="{Fluid Mechanics Through Worked Examples}",
+AUTHOR="D.R.L. Smith",
+PUBLISHER="London: Macmillan \& co",
+YEAR=1960
+}
+
+@ARTICLE{smith72,
+AUTHOR="Ronald Smith",
+TITLE="{Nonlinear Kelvin and Continental-Shelf Waves}",
+JOURNAL="Journal of Fluid Mechanics",
+VOLUME=52,
+NUMBER=2,
+PAGES="379-391",
+YEAR=1972
+}
+
+@ARTICLE{stelling01,
+AUTHOR="Guus S. Stelling and Marcela M. Busnelli",
+TITLE="{Numerical Simulation of the Vertical Structure of Discontinuous Flows}",
+JOURNAL="International Journal for Numerical Methods in Fluids",
+VOLUME=37,
+PAGES="23-43",
+YEAR=2001
+}
+
+@ARTICLE{stephens86,
+AUTHOR="Colin V. Stephens",
+TITLE="{A Three-Dimensional Model for Tides and Salinity in the Bristol Channel}",
+JOURNAL="Continental Shelf Research",
+VOLUME=6,
+NUMBER=4,
+PAGES="531-560",
+YEAR=1986
+}
+
+@techreport{stewart05a,
+author="Stacy Stewart",
+title="{Tropical Depression Twelve, Discussion Number 1 [5 PM EDT TUE AUG 23 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.001.shtml} [accessed 4/11/14]"
+}
+
+@techreport{stewart05b,
+author="Stacy Stewart",
+title="{Tropical Storm Katrina, Discussion Number 4 [11 AM EDT WED AUG 24 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.004.shtml} [accessed 6/11/14]"
+}
+
+@techreport{stewart05c,
+author="Stacy Stewart",
+title="{Tropical Storm Katrina, Discussion Number 5 [5 PM EDT WED AUG 24 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.005.shtml} [accessed 6/11/14]"
+}
+
+@techreport{stewart05d,
+author="Stacy Stewart",
+title="{Tropical Storm Katrina, Discussion Number 8 [11 AM EDT THU AUG 25 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.008.shtml} [accessed 6/11/14]"
+}
+
+@techreport{stewart05e,
+author="Stacy Stewart",
+title="{Hurricane Katrina, Discussion Number 9 [5 PM EDT THU AUG 25 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.009.shtml} [accessed 6/11/14]"
+}
+
+@techreport{stewart05f,
+author="Stacy Stewart",
+title="{Hurricane Katrina, Discussion Number 14 [5 PM EDT FRI AUG 26 2005]}",
+institution="National Weather Service, National Hurricane Center",
+YEAR="2005",
+MONTH="August",
+note="Available at \url{http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.014.shtml} [accessed 6/11/14]"
+}
+
+@TECHREPORT{stommel52,
+TITLE="{On the Nature of Estaurine Circulation}",
+AUTHOR="Henry Stommel and Harlow G. Former",
+INSTITUTION="Office of Naval Research",
+YEAR="1952"
+}
+
+@book{strabo,
+AUTHOR="Strabo",
+TITLE="{Geography}",
+PUBLISHER="trans. H.L. Jones (1917-32)",
+NOTE="Available at: \url{http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html} [Accessed 15/1/15]"
+}
+
+@ARTICLE{su01,
+AUTHOR="M.D. Su and X. Xu and J.L. Zhu and Y.C. Hon",
+TITLE="{Numerical Simulation of Tidal Bore in Hangzhou Gulf and Qiantangjiang}",
+JOURNAL="International Journal for Numerical Methods in Fluids",
+VOLUME=36,
+PAGES="205-247",
+YEAR=2001
+}
+
+@ARTICLE{subrahamanyam11,
+AUTHOR="D. Bala Subrahamanyam and N.V.P. Kiran Kumar and C.B.S. Dutt and T.J. Anurose and P.K. Kunhikrishnan and Mannil Mohan",
+TITLE="{Characterization of Air-Sea Interaction Processes over the Bay of Bengal During the Winter Phase of ICARB Field Experiment}",
+JOURNAL="Atmospheric Research",
+VOLUME=99,
+PAGES="97-111",
+YEAR=2011
+}
+
+@BOOK{sverdrup05,
+AUTHOR="Keith A. Sverdrup and Alyn C. Duxbury and Alison B. Duxbury",
+TITLE="{An Introduction to the World's Oceans}",
+EDITION=8,
+PUBLISHER="New York: McGraw-Hill",
+YEAR=2005
+}
+
+@ARTICLE{taylor20,
+TITLE="{Tidal Friction in the Irish Sea}",
+AUTHOR="G.I. Taylor",
+JOURNAL="Philosophical Transactions of the Royal Society of London. Series A, Containing Papers of a Math. or Phys. Character",
+VOLUME=220,
+PAGES="1-33",
+YEAR=1920
+}
+
+@book{test15,
+TITLE="TEST",
+AUTHOR="TEST",
+PUBLISHER="TEST",
+YEAR=3015
+}
+
+@BOOK{thom71,
+TITLE="{Megalithic Lunar Observatories}",
+AUTHOR="Alexander Thom",
+PUBLISHER="Oxford: Oxford University Press",
+YEAR="1971"
+}
+
+@MISC{thompson14,
+TITLE="{Aerofoils or Airfoils}",
+AUTHOR="Harvey Thompson",
+YEAR=2014,
+HOWPUBLISHED="Notes from a seminar given at the University of Leeds"
+}
+
+@ARTICLE{thomson82,
+TITLE="{The Generation of Diurnal Period Shelf Waves by Tidal Currents}",
+AUTHOR="Richard E. Thomson and William R. Crawford",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=12,
+PAGES="635-643",
+YEAR=1982
+}
+
+@BOOK{thurman04,
+AUTHOR="Harold V. Thurman and Alan P. Trujillo",
+TITLE="{Introductory Oceanography}",
+EDITION=10,
+YEAR=2004,
+PUBLISHER="New Jersey: Pearson Prentice Hall"
+}
+
+@BOOK{toro09,
+AUTHOR="Eleuterio F. Toro",
+TITLE="{Riemann Solvers and Numerical Methods for Fluid Dynamics}",
+EDITION=3,
+PUBLISHER="Berlin Heidelberg: Springer-Verlag",
+YEAR=2009
+}
+
+@ARTICLE{townend07,
+AUTHOR="I.H. Townend and Z.B. Wang and J.G. Rees",
+TITLE="{Millennial to Annual Volume Changes in the Humber Estuary}",
+JOURNAL="Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences",
+VOLUME=463,
+NUMBER=2079,
+PAGES="837-854",
+YEAR=2007
+}
+
+@UNPUBLISHED{trefethen94,
+TITLE="{Finite Difference and Spectral Methods for Ordinary and Partial Differential Equations}",
+AUTHOR="Lloyd N. Trefethen",
+YEAR="1994",
+NOTE="Available at \url{http://people.maths.ox.ac.uk/trefethen/pdetext.html} [accessed 17/11/2014]"
+}
+
+@BOOK{tricker64,
+AUTHOR="R.A.R. Tricker",
+TITLE="{Bores, Breakers, Waves and Wakes: An Introduction to the Study of Waves on Water}",
+PUBLISHER="London: Mills \& Boon",
+YEAR=1964
+}
+
+@BOOK{tritton88,
+TITLE="{Physical Fluid Dynamics}",
+AUTHOR="D.J. Tritton",
+PUBLISHER="New York: Oxford University Press",
+EDITION=2,
+YEAR=1988
+}
+
+@BOOK{turner73,
+TITLE="{Bouyancy Effects in Fluids}",
+AUTHOR="J. S. Turner",
+PUBLISHER="Cambridge: Cambridge University Press",
+SERIES="Cambridge Monographs on Mechanics and Applied Mathematics",
+YEAR="1973"
+}
+
+@ARTICLE{uncles06,
+AUTHOR="R.J. Uncles and J.A. Stephens and C. Harris",
+TITLE="{Runoff and Tidal Influences on the Estuarine Turbidity Maximum of a Highly Turbid System: The Upper Humber and Ouse Estuary, UK}",
+JOURNAL="Marine Geology",
+VOLUME=235,
+PAGES="213-228",
+YEAR=2006
+}
+
+@ARTICLE{uncles06b,
+AUTHOR="R.J. Uncles and J.A. Stephens and D.J. Law",
+TITLE="{Turbidity Maximum in the Macrotidal, Highly Turbid Humber Estuary, UK: Flocs, Fluid Mud, Stationary Suspensions and Tidal Bores}",
+JOURNAL="Estuarine, Coastal and Shelf Science",
+VOLUME=67,
+PAGES="30-52",
+YEAR=2006
+}
+
+@ARTICLE{uncles10,
+AUTHOR="R.J. Uncles",
+TITLE="{Physical Properties and Processes in the Bristol Channel and Severn Estuary}",
+JOURNAL="Marine Pollution Bulletin",
+VOLUME=61,
+PAGES="5-20",
+YEAR=2010
+}
+
+@ARTICLE{uncles10b,
+AUTHOR="R.J. Uncles",
+TITLE="{Physical Properties and Processes in the Bristol Channel and Severn Estuary}",
+JOURNAL="Marine Pollution Bulletin",
+VOLUME=61,
+PAGES="5=20",
+YEAR=2010
+}
+
+@ARTICLE{uncles81,
+AUTHOR="R.J. Uncles",
+TITLE="{A Numerical Simulation of the Vertical and Horizontal M2 Tide in the Bristol Channel and Comparisons with Observed Data}",
+JOURNAL="Limnology and Oceanography",
+VOLUME=26,
+NUMBER=3,
+PAGES="571-577",
+YEAR=1981
+}
+
+@ARTICLE{uncles83,
+AUTHOR="R.J. Uncles",
+TITLE="{Hydrodynamics of the Bristol Channel}",
+JOURNAL="Marine Pollution Bulletin",
+VOLUME=15,
+NUMBER=2,
+PAGES="47-53",
+YEAR=1983
+}
+
+@MISC{uwa10,
+AUTHOR="{University of Western Australia, School of Computer Science and Software Engineering}",
+TITLE="Vorono{\"i} Diagrams and Delaunay Triangulations",
+HOWPUBLISHED="Image, Online. Available at \url{http://undergraduate.csse.uwa.edu.au/units/CITS3210/project.html} [accessed 22/7/15]",
+YEAR=2010
+}
+
+@BOOK{vallis06,
+TITLE="{Atmospheric and Oceanic Fluid Dynamics}",
+AUTHOR="Geoffery K. Vallis",
+PUBLISHER="New York: Cambridge University Press",
+YEAR=2006
+}
+
+
+@ARTICLE{vanderwaerden87,
+AUTHOR="Bartel Leendert van der Waerden",
+TITLE="{The Heliocentric System in Greek, Persian and Hindu Astronomy}",
+JOURNAL="Annals of the New York Academy of Sciences",
+VOLUME="500",
+PAGES="525-545",
+MONTH="June",
+YEAR="1987"
+}
+
+
+@inproceedings{varol09,
+AUTHOR="F. Ay\c{c}a Varol and Esin \c{C}ev\.{i}k and Yal\c{c}in Y{\"u}ksel",
+TITLE="{The Effect of Water Jet on the Hydraulic Jump}",
+BOOKTITLE="Thirteenth International Water Technology Conference",
+YEAR=2009,
+PAGES="895-910"
+}
+
+@UNPUBLISHED{velema10,
+TITLE="{On the Tidal Dynamics of the North Sea}",
+AUTHOR="Jorick J. Velema",
+YEAR=2010,
+ORGANIZATION="University of Twente",
+NOTE="Master's Thesis"
+}
+
+@BOOK{verena95,
+AUTHOR="{Computational Science Education Project}",
+TITLE="Direct and Inverse Bioelectric Field Problems",
+PUBLISHER="Ebook: Available at \url{http://www.phy.ornl.gov/csep/bf/bf.html}",
+YEAR=1995
+}
+
+@ARTICLE{vilenski04,
+AUTHOR="G.G. Vilenski and E.R. Johnson",
+TITLE="{Near-Critical Free-Surface Rotating Flow over Topography}",
+JOURNAL="Proceedings of the Royal Society of London: A",
+VOLUME=460,
+PAGES="2865-2881",
+YEAR=2004
+}
+
+@ARTICLE{voronoi08,
+AUTHOR="Georges Voronoi",
+TITLE="{Nouvelles Applications des Param\`{e}tres Continus \`{a} la Th\'{e}orie des Formes Quadratiques. Deuxi\`{e}me M\'{e}moire. Recherches sur les Parall\'{e}llo\`{e}dres Primitifs.}",
+JOURNAL="Journal f{\"u}r die Reine und Angewandte Mathematik",
+VOLUME=134,
+PAGES="198-287",
+YEAR=1908
+}
+
+@BOOK{vreugdenhil94,
+AUTHOR="C.B. Vreugdenhil",
+TITLE="{Numerical Methods for Shallow-Water Flow}",
+SERIES="Water Science and Technology Library",
+VOLUME=13,
+PUBLISHER="Dordrecht: Kluwer Academic",
+YEAR=1994
+}
+
+@ARTICLE{wai07,
+AUTHOR="O.W.H. Wai and Y.C. Chen and Q. Lu and Y.S. Li",
+TITLE="{A Multi-Layer Finite Element Formulation for Suspended Sediment Transport in Tidal Flows}",
+JOURNAL="International Journal of Computational Fluid Dynamics",
+VOLUME=9,
+NUMBER=2,
+PAGES="137-149",
+YEAR=2007
+}
+
+@ARTICLE{wai96,
+AUTHOR="Onyx W.H. Wai and Qimiao Lu and Y.S. Li",
+TITLE="{Multi-Layer Modeling of Three-Dimensional Hydrodynamic Transport Processes}",
+JOURNAL="Journal of Hydraulic Research",
+VOLUME=34,
+NUMBER=5,
+PAGES="677-693",
+YEAR=1996
+}
+
+@book{wallace06,
+author="John M. Wallace and Peter V. Hobbs",
+EDITION="2nd",
+TITLE="Atmospheric Science, An Introductory Survey",
+publisher="China: Elsevier Academic Press",
+SERIES="International Geophysics Series",
+institution="University of Washington",
+YEAR="2006"
+}
+
+@ARTICLE{wallis66,
+AUTHOR="John Wallis",
+JOURNAL="Philosophical Transactions",
+VOLUME=1,
+PAGES="263-281",
+TITLE="{An Essay of Dr. John Wallis, Exhibiting His Hypothesis about the Flux and Reflux of the Sea}",
+PUBLISHER="The Royal Society",
+YEAR="1666"
+}
+
+@ARTICLE{wang14,
+AUTHOR="Hang Wang and Stefan Felder and Hubert Chanson",
+TITLE="{An Experimental Study of Turbulent Two-Phase Flow in Hydraulic Jumps and Application of a Triple Decomposition Technique}",
+JOURNAL="Experiments in Fluids",
+VOLUME=55,
+NUMBER=7,
+PAGES="1-18",
+YEAR=2014
+}
+
+@BOOK{wayne00,
+AUTHOR="Richard P. Wayne",
+TITLE="Chemistry of Atmospheres",
+EDITION=3,
+PUBLISHER="New York: Oxford University Press",
+YEAR=2000
+}
+
+@ARTICLE{wayne11,
+AUTHOR="C. Eugene Wayne",
+TITLE="{Vortices and Two-Dimensional Fluid Motion}",
+JOURNAL="Notices of the AMS",
+VOLUME=58,
+NUMBER=1,
+YEAR=2011
+}
+
+@ARTICLE{weber12,
+TITLE="{Radiation Stress and Mean Drift in Continental Shelf Waves}",
+AUTHOR="Jan Erik H. Weber and Magnus Drivdal",
+JOURNAL="Continental Shelf Research",
+VOLUME=35,
+PAGES="108-116",
+YEAR=2012
+}
+
+@ARTICLE{webster11,
+AUTHOR="William C. Webster and Wenyang Duan and Binbin Zhao",
+TITLE="{Green-Naghdi Theory, Part A: Green-Naghdi (GN) Equations for Shallow Water Waves}",
+JOURNAL="Journal of Marine Science",
+VOLUME=10,
+PAGES="253-258",
+YEAR=2011
+}
+
+@BOOK{westley80,
+AUTHOR="Francis Westley",
+TITLE="{Table of Recommended Rate Constants for Chemical Reactions Occuring in Combustion}",
+PUBLISHER="Washington: US Government Printing Office",
+YEAR=1980
+}
+
+@ARTICLE{williams88,
+AUTHOR="Richard G. Williams",
+TITLE="{Modification of Ocean Eddies by Air-Sea Interaction}",
+JOURNAL="Journal of Geophysical Research",
+VOLUME=93,
+NUMBER="C12",
+PAGES="15,523-15,533",
+YEAR=1988
+}
+
+@BOOK{wu06,
+AUTHOR="Jie-Zhi Wu and Hui-Yang Ma and Ming-De Zhou",
+TITLE="{Vorticity and Vortex Dynamics}",
+PUBLISHER="Berlin: Springer-Verlag",
+YEAR=2006
+}
+
+@ARTICLE{wunsch97,
+TITLE="{Atmospheric Loading and the ``Inverted Barometer'' Effect}",
+AUTHOR="Carl Wunsch and Detlef Stammer",
+JOURNAL="Reviews of Geophysics",
+VOLUME=35,
+NUMBER=1,
+PAGES="79-107",
+YEAR=1997
+}
+
+@ARTICLE{xu96,
+AUTHOR="Kuan-Man Xu and David A. Randall",
+TITLE="{A Semiempirical Cloudiness Parameterization for Use in Climate Models}",
+JOURNAL="Journal of the Atmospheric Sciences",
+VOLUME="53",
+NUMBER="21",
+YEAR="1996"
+}
+
+@ARTICLE{yijia12,
+AUTHOR="Hu Yijia and Zhong Zhong and Liu Xiying and Zhu Yimin",
+TITLE="{Influence of Air-Sea Interaction on the Simulation of East Asian Summer Monsoon: A Case Study}",
+JOURNAL="Dynamics of Atmospheres and Oceans",
+VOLUME="53-54",
+PAGES="1-16",
+YEAR=2012
+}
+
+@ARTICLE{yin13,
+TITLE="{Coastal-Trapped Waves in the East China Sea Observed by a Mooring Array in Winter 2006}",
+AUTHOR="Liping Yin and Fangli Qiao and Quanan Zheng",
+JOURNAL="Journal of Physical Oceanography",
+VOLUME=44,
+PAGES="576-590",
+YEAR=2013
+}
+
+@BOOK{zettl05,
+TITLE="{Sturm-Liouville Theory}",
+AUTHOR="Anton Zettl",
+PUBLISHER="Providence, R.I.: American Mathematical Society",
+YEAR=2005
+}
+
+@book{zeytounian91,
+author="Radayour K. Zeytounian",
+title="Meteorological Fluid Dynamics",
+PUBLISHER="Berlin Heidelberg: Springer-Verlag",
+year="1991",
+series="Lecture Notes in Physics",
+institution="Université de Lille I, Laboratoire de Mécanique de Lille"
+}
+
+@ARTICLE{zhang13,
+AUTHOR="Yao Zhang and Andrew B. Kennedy and Nishant Panda and Clint Dawson and Joannes J. Westerink",
+TITLE="{Boussinesq-Green-Naghdi Rotational Water Wave Theory}",
+JOURNAL="Coastal Engineering",
+VOLUME=73,
+PAGES="13-27",
+YEAR=2013
+}
+
+@ARTICLE{zheng14,
+TITLE="{Growth and Dissipation of Typhoon-Forced Solitary Continental Shelf Waves in the Northern South China Sea}",
+AUTHOR="Quanan Zheng and Benlu Zhu and Junyi Li and Zhenyu Sun and Ying Xu and Jianyu Hu",
+JOURNAL="Climate Dynamics",
+YEAR=2014
+}
+
+@ARTICLE{zhou01,
+AUTHOR="J.G. Zhoe and D.M. Causon and C.G. Mingham and D.M. Ingram",
+TITLE="{The Surface Gradient Method for the Treatment of Source Terms in the Shallow-Water Equations}",
+JOURNAL="Journal of Computational Physics",
+VOLUME=168,
+PAGES="1-25",
+YEAR=2001
+}
+
+@ARTICLE{zienkiewicz95,
+AUTHOR="O.C. Zienkiewicz and P. Ortiz",
+TITLE="{A Split-Characteristic Based Finite Element Model for the Shallow Water Equations}",
+JOURNAL="International Journal for Numerical Methods in Fluids",
+VOLUME=20,
+PAGES="1061-1080",
+YEAR=1995
+}
+
+@ARTICLE{ziliang09,
+AUTHOR="Li Ziliang and Fu Gang and Chen Jing",
+TITLE="{Periodic Structures of Atmospheric Internal Gravity Wave Under the Influence of Air-Sea Interaction}",
+JOURNAL="Chaos, Solitons and Fractals",
+VOLUME=40,
+PAGES="530-537",
+YEAR=2009
+}
+
+@MISC{carter,
+TITLE="{The Aegir on the Trent}",
+AUTHOR="E.W. Carter",
+HOWPUBLISHED="Photograph [online] [accessed 27/8/15] Available at \url{http://www.snicholson.freeserve.co.uk/gainsborough/gainstour6.html}",
+YEAR="No Date"
+}
+

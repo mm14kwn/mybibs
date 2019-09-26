@@ -62,6 +62,9 @@
     "sobel68"
     "danielsson90"
     "canny87"
-    "fu80"))
+    "fu80"
+    "moore09"
+    "marker67"
+    "bell2015"))
  :bibtex)
 
